@@ -1,0 +1,730 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the letters, wherin the most redouted [and] mighty pri[n]ce, our souerayne lorde kyng Henry the eight, kyng of Englande [and] of Frau[n]ce, defe[n]sor of the faith, and lorde of Irla[n]de: made answere vnto a certayne letter of Martyn Luther, sente vnto him by the same and also the copy of the foresaid Luthers letter, in such order, as here after foloweth.</title>
+            <title>Literarum, quibus invictissimus princeps, Henricus octavus, rex Angliae et Franciae, dominus Hyberniae, ac fidei defensor respondit, ad quandam epistolam Martini Lutheri, ad se missam. English</title>
+            <author>Henry VIII, King of England, 1491-1547.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1527</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68160</idno>
+            <idno type="STC">STC 13086</idno>
+            <idno type="STC">ESTC S106085</idno>
+            <idno type="EEBO-CITATION">99841810</idno>
+            <idno type="PROQUEST">99841810</idno>
+            <idno type="VID">6419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 52:10, 519:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the letters, wherin the most redouted [and] mighty pri[n]ce, our souerayne lorde kyng Henry the eight, kyng of Englande [and] of Frau[n]ce, defe[n]sor of the faith, and lorde of Irla[n]de: made answere vnto a certayne letter of Martyn Luther, sente vnto him by the same and also the copy of the foresaid Luthers letter, in such order, as here after foloweth.</title>
+                  <title>Literarum, quibus invictissimus princeps, Henricus octavus, rex Angliae et Franciae, dominus Hyberniae, ac fidei defensor respondit, ad quandam epistolam Martini Lutheri, ad se missam. English</title>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+                  <author>Luther, Martin, 1483-1546. Epistola ad Henricum Octavum Angliae et Franciae regem. English.</author>
+               </titleStmt>
+               <extent>[100] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Flete-strete by Rycharde Pynson, printer to the kynges moost noble grace,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1527?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of "Literarum, quibus invictissimus princeps, Henricus octavus, rex Angliae et Franciae, dominus Hyberniae, ac fidei defensor respondit, ad quandam epistolam Martini Lutheri, ad se missam", including the letter from Luther originally published as "Epistola ad Henricum Octavum Angliae et Franciae regem".</note>
+                  <note>Printer's name and address from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A¹²  B-E F⁶.</note>
+                  <note>The final leaf contains a printer's mark.</note>
+                  <note>In this edition, B1r line 4 ends: fayth.</note>
+                  <note>Reproductions of the originals in the British Library (reel 52:10) and the Henry E. Huntington Library and Art Gallery (reel 519:16).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Luther, Martin, 1483-1546. --  Epistola ad Henricum Octavum Angliae et Franciae regem --  Early works to 1800.</term>
+               <term>Reformation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6419:1"/>
+            <pb facs="tcp:6419:1"/>
+            <p>¶ A copy of the letters / wher<g ref="char:EOLhyphen"/>in the moſt redouted &amp; mighty pri<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ce our ſouerayne lorde kyng Henry the eight / kyng of Englande &amp; of Frau<g ref="char:cmbAbbrStroke">̄</g>ce / defe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſor of the faith / and lorde of Irla<g ref="char:cmbAbbrStroke">̄</g>de: made anſwere vnto a certayne letter of Mar<g ref="char:EOLhyphen"/>tyn Luther / ſente vnto him by the ſame / and alſo the copy of the foreſaid Luthers letter / in ſuch or<g ref="char:EOLhyphen"/>der / as here after foloweth.</p>
+         </div>
+         <div type="list_of_contents">
+            <pb facs="tcp:6419:2"/>
+            <p>¶ Fyrſt a preface of our ſoueraygne lorde the kynge / vnto all his faithfull and enterely beloued ſubiectes.</p>
+            <p>¶ Copye of the letter / whiche Mar<g ref="char:EOLhyphen"/>tyne Luther had ſent / vnto our ſayd ſoueraygne lorde the kyng.</p>
+            <p>¶ The copye of the anſwere of our ſayd ſouerayne lorde / vnto the ſame letter of Martyn Luther.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Henry_VIII_to_his_subjects">
+            <pb facs="tcp:6419:2"/>
+            <opener>
+               <signed>¶ Henry the eight by the gra<g ref="char:EOLhyphen"/>ce of god / kyng of Englande &amp; of Fran<g ref="char:cmbAbbrStroke">̄</g>ce / defe<g ref="char:cmbAbbrStroke">̄</g>ſor of the faith / and lorde of Irlande:</signed>
+               <salute>vnto all his faythfull and welbeloued ſubiectes / gretyng.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath ſemed to vs alwayes / our entirely be loued people / that lyke<g ref="char:EOLhyphen"/>wiſe / as it apperteyneth to the offyce and eſtate of a kyng / dilygently to procure the te<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>porall welth / and commodyte of his ſubiectes: So dothe it of dewtie / more eſpecially belonge to the parte and offyce of a chriſten kynge / ouer and beſydes / his labour / payne / and traueyle / beſtowed vpon the prouy<g ref="char:EOLhyphen"/>ſyon of worldly welth and quyete for his people: farre yet more feruently
+<pb facs="tcp:6419:3"/>
+to labour / trauayle and ſtudye / by all the meanes and wayes to hym poſſi<g ref="char:EOLhyphen"/>ble / howe he maye ſurely kepe / eſta<g ref="char:EOLhyphen"/>blyſſhe and co<g ref="char:cmbAbbrStroke">̄</g>fyrme / and ſpyritually ſet forthe and forther / the hertes and myndes of his ſubiectes / in the right relygion of god / and trewe faythe of Chriſt / by whoſe highe prouydence &amp; eſpeciall bounte / they were for y<hi rend="sup">t</hi> pur<g ref="char:EOLunhyphen"/>poſe / chefely co<g ref="char:cmbAbbrStroke">̄</g>mytted vnto his go<g ref="char:EOLhyphen"/>uernaunce. For albeit ſo / that our ſa<g ref="char:EOLhyphen"/>uyour Chriſt hath in his eccleſy<g ref="char:EOLunhyphen"/>aſti<g ref="char:EOLhyphen"/>call hierarchy mooſt ordinately ſet &amp; prouyded / and apoynted the ſpyritu<g ref="char:EOLhyphen"/>all fathers and curates / moſt eſpeci<g ref="char:EOLhyphen"/>ally to ſolycite / procure / and haue in charge / thoſe thyngꝭ that apperteyne by faithe or other ſpyrituall vertues / to the weale and ſaluation of his cho<g ref="char:EOLunhyphen"/>ſen chyldre<g ref="char:cmbAbbrStroke">̄</g> / whiche ben chriſten men: yet is there no man but he well wot<g ref="char:EOLhyphen"/>teth / that the temporall princes / con<g ref="char:EOLhyphen"/>curryng
+<pb facs="tcp:6419:3"/>
+with them and ſetting their handes therto / and ouerſeyng and or<g ref="char:EOLunhyphen"/>derynge them to execute the charge / whiche god hath elect them to / euery prince in his owne realme / the mater ſhall bothe moche better &amp; moche fa<g ref="char:EOLhyphen"/>ſter come forwarde. The profe wher of / hath euydently appered in tymes paſt / for ſoone after the begynnynge of Chriſtes churche / the conuerſyon of kynges to the faithe / breuely tour<g ref="char:EOLhyphen"/>ned all their realmes with the<g ref="char:cmbAbbrStroke">̄</g>: And where the oppoſyte was vſed / there neither grace / vertue / nor other gode worke coude floriſſhe or encreſe / but alwayes where lacked faythe / there raigned hereſies / ſe<g ref="char:cmbAbbrStroke">̄</g>ſualyte / voluptie inobedyence / rebellyon / no recogny<g ref="char:EOLhyphen"/>tion of ſuperiour / confuſyon / and to<g ref="char:EOLhyphen"/>tall ruyne in the ende. Whiche thyn<g ref="char:EOLhyphen"/>ges / by the great wyſedome of oure noble progenitours well parceyued / 
+<pb facs="tcp:6419:4"/>
+they haue of their vertuous mynde and princely corage / as well by the makyng of good and ſharpe lawes / requiſite for y<hi rend="sup">t</hi> entent / as by due execu<g ref="char:EOLunhyphen"/>tyon of the ſame / nat without the put<g ref="char:EOLunhyphen"/>tyng of their owne bodies / ſomtyme in the auenture of bataile / done their effectuall deuoyre to withſtande and repreſſe from tyme to tyme / the perni<g ref="char:EOLunhyphen"/>cious errours and hereſyes / that els had of lykelyhode / as well by wyc<g ref="char:EOLhyphen"/>clyffe / as other abhomynable hereti<g ref="char:EOLhyphen"/>kes / ben depely roted in this realme. And ſurely we for our parte nothing ſo moche deſyre / as the fortheraunce of you our welbeloued people / in the honour and ſeruyce of almighty god and nat onely to folowe and enſue y<hi rend="sup">e</hi> frutefull examples of our noble pro<g ref="char:EOLhyphen"/>genytours / but alſo to putte our ſelfe in deuoyre in that poynt (if we may) to paſſe them / eſpecially ſyth there ne<g ref="char:EOLunhyphen"/>uer
+<pb facs="tcp:6419:4"/>
+was in any of their tymes / ſo mo<g ref="char:EOLunhyphen"/>che nede therto / as to our great grefe diſpleaſure and heuyneſſe / it is now. For we doute nat / but it is well kno<g ref="char:EOLhyphen"/>wen to you all / that Martyn Luther late a frere Auguſtyne / and now ron out i<g ref="char:cmbAbbrStroke">̄</g> Apoſtaſy and wedded / hath nat onely ſcraped out of the aſſhen / and kyndeled agayne / almoſt all the em<g ref="char:EOLhyphen"/>bres of thoſe olde errours and here<g ref="char:EOLhyphen"/>ſyes / that euer heretyke helde ſythe Chriſt was borne hytherto: but hath alſo added ſome ſo poyſoned pointes of his owne / ſo wretched / ſo vyle / ſo deteſtable / prouokynge men to myſ<g ref="char:EOLhyphen"/>chefe / encoragyng the worlde to ſyn / preachyng an vnſaciat lyberte / to al<g ref="char:EOLhyphen"/>lecte them with all / and finally / ſo farre againſt all honeſty / vertue and reaſon / that neuer was there erſt any heretyke ſo farre voyde of all grace and wyt / that durſt for ſhame ſpeke
+<pb facs="tcp:6419:5"/>
+them. We therfore ſeyng theſe here<g ref="char:EOLhyphen"/>ſies ſprede abrode / and inwardly ſo<g ref="char:EOLhyphen"/>rowynge ſo many chriſten ſoules to ron to ruyne / as hath done i<g ref="char:cmbAbbrStroke">̄</g> other re<g ref="char:EOLhyphen"/>gions / by the occaſyon of ſuche peſty lent errours / entendyng for our ꝑte / ſomwhat to ſet hande therto / wrote after our meane lernyng / a lytell tre<g ref="char:EOLhyphen"/>tyſe / for the aſſertyon and probatyon of the holy ſacramentes: In whiche we reproued / and as we truſt ſuffici<g ref="char:EOLhyphen"/>ently refuted and conuinced the moſt parte of the deteſtable hereſies of the ſayde Luther / contayned in his ab<g ref="char:EOLhyphen"/>homynable boke / entytuled de Babi<g ref="char:EOLunhyphen"/>lonica Captiuitate. For angre and furye wherof / vpon two yeres after / Luther wrote and ſent oute agaynſt vs a boke / nothyng anſweryng to y<hi rend="sup">e</hi> mater / but all reaſon ſette aſyde / ſtuf<g ref="char:EOLhyphen"/>fed vp his booke with onely furious raylyng / whiche his boke we regar<g ref="char:EOLhyphen"/>dynge
+<pb facs="tcp:6419:5"/>
+/ as it was worthy / co<g ref="char:cmbAbbrStroke">̄</g>tempned and nat wolde voucheſafe any thing to reply / reputyng our ſelfe in Chri<g ref="char:EOLhyphen"/>ſtes cauſe / nat to good with a ryght meane man to reaſon or co<g ref="char:cmbAbbrStroke">̄</g>trary / but nothing metely fruteleſſe with a leu<g ref="char:EOLhyphen"/>de Frere to rayle. So came it than to paſſe / that Luther at laſte / parcey<g ref="char:EOLhyphen"/>uyng wyſe men to eſpye hym / lerned men to leaue hym / good men to ab<g ref="char:EOLhyphen"/>horre hym / and his frantyke fauou<g ref="char:EOLhyphen"/>rers to fall to wracke / the nobles and honeſt people in Almaygne / beynge taught by the profe of his vngraty<g ref="char:EOLhyphen"/>ous practyſe / moche more hurt &amp; myſ<g ref="char:EOLunhyphen"/>chefe to folowe therof / than euer they loked after / deuyſed a lett<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> to vs writ<g ref="char:EOLhyphen"/>ten / to abuſe them and all other naty<g ref="char:EOLhyphen"/>ons / in ſuche wyſe / as ye by the co<g ref="char:cmbAbbrStroke">̄</g>ten<g ref="char:EOLunhyphen"/>tes therof / herafter ſhal well ꝑceyue. In whiche he fayneth hym ſelfe to be enformed / that we be tourned to the
+<pb facs="tcp:6419:6"/>
+fauour of his ſecte. And with many flateryng wordes / he laboreth to ha<g ref="char:EOLhyphen"/>ue vs content that he myght be bolde to write to vs in the mater / and cauſe of the goſpell: And thervpon with<g ref="char:EOLhyphen"/>out anſwere had from vs / nat onely publyſſhed the ſame letter and put it in print / of purpoſe that his adheren<g ref="char:EOLunhyphen"/>tes ſhulde be the bolder / vnder y<hi rend="sup">e</hi> ſha<g ref="char:EOLhyphen"/>dowe of our fauour / but alſo fell in deuyce with one or two leude ꝑſons / borne in this our realme / for the tran<g ref="char:EOLunhyphen"/>ſlatyng of the Newe teſtament in to Englyſſhe / as well with many cor<g ref="char:EOLhyphen"/>ruptio<g ref="char:cmbAbbrStroke">̄</g>s of that holy text / as certayne prefaces / and other peſtylent gloſes in the margentes / for the aduaunce<g ref="char:EOLhyphen"/>ment and ſettyng forthe of his abho<g ref="char:EOLhyphen"/>mynable hereſyes / entendynge to a<g ref="char:EOLhyphen"/>buſe the gode myndes and deuotion / that you oure derely beloued people beare / towarde the holy ſcrypture / &amp;
+<pb facs="tcp:6419:6"/>
+to enfect you with the deedly corrup<g ref="char:EOLhyphen"/>tion and contagious odour of his pe<g ref="char:EOLunhyphen"/>ſtylent errours. In the aduoydynge wherof / we of our eſpeciall te<g ref="char:cmbAbbrStroke">̄</g>dre zele towardes you / haue with the delibe<g ref="char:EOLhyphen"/>rate aduyſe of the moſt reuerende fa<g ref="char:EOLhyphen"/>ther in god / Thomas lorde Cardy<g ref="char:EOLhyphen"/>nall / legate de Latere of the ſee Apo<g ref="char:EOLhyphen"/>ſtolyke / Archebyſſhop of yorke / pri<g ref="char:EOLhyphen"/>mate and our Chauncellour of this realme / and other reuerende fathers of the ſpyritualtye / determyned the ſayde corrupte and vntrue tranſlaty<g ref="char:EOLhyphen"/>ons to be bre<g ref="char:cmbAbbrStroke">̄</g>ned / with further ſhar<g ref="char:EOLhyphen"/>pe correction &amp; punyſſhment againſt the kepars and reders of y<hi rend="sup">e</hi> ſame / re<g ref="char:EOLhyphen"/>kenyng of your wiſdomes very ſure that ye wyll well and thankfully par<g ref="char:EOLunhyphen"/>ceyue our tendre and louyng mynde towarde you therin / and that ye will neuer be ſo gredy vppon any ſwete wyne / be the grape neuer ſo pleſau<g ref="char:cmbAbbrStroke">̄</g>t / 
+<pb facs="tcp:6419:7"/>
+that ye wyll deſyre to taſte it / beyng well aduertiſed y<hi rend="sup">t</hi> your enemy before hath poyſoned it. Ouer this / where as we before had entended / to leaue Luther to his leudneſſe / without a<g ref="char:EOLhyphen"/>ny further writynge: yet for the fru<g ref="char:EOLhyphen"/>ſtratyng and aduoyding of his ma<g ref="char:EOLhyphen"/>lycious fraude / whereby he entendeth to abuſe the worlde / with a falſe opy<g ref="char:EOLhyphen"/>nion of our fauour towarde him / we letted nat efte ſones / to write hym an anſwere / of his more ſubtyle / than eyther true or wyſe writynge. After whiche letter written and ſente hym / ſithe we parceyued and conſidred far<g ref="char:EOLunhyphen"/>ther / that he had by ſo<g ref="char:cmbAbbrStroke">̄</g>drie falſe inuen<g ref="char:EOLunhyphen"/>tions / laboured to ſowe ſome of his venomous ſeed amonges you / oure welbeloued people / and hath beſy<g ref="char:EOLhyphen"/>des that / ſought the meanes to make you beleue that he were vntruely ſpo<g ref="char:EOLunhyphen"/>ken and written of / and that he is nat
+<pb facs="tcp:6419:7"/>
+maryed / nor that he dothe nat wryte or teche ſuche execrable hereſyes / as men reporte y<hi rend="sup">t</hi> he dothe / whiche hym ſelfe knoweth to be of ſuche a ſort / as your good chriſten eares wolde ab<g ref="char:EOLhyphen"/>horre to here: And for y<hi rend="sup">t</hi> cauſe / wolde for a begynnyng / tyll he myght entre in farther credence and fauour amon<g ref="char:EOLunhyphen"/>ges you / bring you in the mynde / by the mouthes of ſome that ſette forthe his maters / that he were neyther ſu<g ref="char:EOLhyphen"/>che man as he is made / nor ſaith ſuch thynges / as men ſaith he dothe.</p>
+            <p>¶ We therfore our welbeloued peo<g ref="char:EOLhyphen"/>ple / nat wyllyng you by ſuch ſubtyll meanes / to be diſceyued or ſeduced / haue of our eſpeciall fauour toward you / tranſlated for you / &amp; gyuen out vnto you / as well his ſaid letter writ<g ref="char:EOLunhyphen"/>ten to vs / as our anſwere alſo / made vnto the ſame: By the ſight wherof / ye may partely parceyue bothe what
+<pb facs="tcp:6419:8"/>
+the man is in hym ſelfe / and of what ſorte is his doctryne: whiche two thi<g ref="char:EOLunhyphen"/>ges / if ye well pondre / ye ſhall ſoone vnderſtande his doctryne ſo abhomi<g ref="char:EOLunhyphen"/>nable / y<hi rend="sup">t</hi> it muſt nedes make the man odious / and ſhewe hym to be naught were his lyueng in apparence neuer ſo good / and the man him ſelfe of his lyueng ſo openly naught &amp; vycious / that his open vyces and boldely bo<g ref="char:EOLhyphen"/>ſted wretchedneſſe / muſt nedes make his doctryne ſuſpected: And though it bare as fayre a viſage of holyneſſe / as it nowe beareth a ſhameles open face / of bolde preſumption in ſynne / farre ouer large / and in myſchefe to great and wyde ſprede / for the good vyſar of Euaungelyke lyberte to co<g ref="char:EOLhyphen"/>uer it / but nat / as he wolde that you ſhulde vnderſtande it: whiche thyn<g ref="char:EOLhyphen"/>ges by your wyſedomes / our welbe<g ref="char:EOLhyphen"/>loued people ones parceyued / as in
+<pb facs="tcp:6419:8"/>
+this lytell worke I verily truſte ye ſhall / I dout nat but your goodneſſe ſhall with goddes grace / take ſuche frute therby / as ſhalbe to the confort of youre ſoules / to the reioyſe of all good men / to the lette of his myſche<g ref="char:EOLhyphen"/>uous purpoſe / and to youre eternall ioye here after: And if you do (as I truſt verily ye wyll) nat deſca<g ref="char:cmbAbbrStroke">̄</g>t vpon ſcrypture / nor truſte to moche youre owne commentes and interpretaty<g ref="char:EOLhyphen"/>ons / but in euery doute that ſhall in<g ref="char:EOLhyphen"/>ſourge / lerne the truthe and enclyne to the ſame / by the aduice of your pa<g ref="char:EOLhyphen"/>ſtorall fathers of y<hi rend="sup">e</hi> ſoule / it ſhall nat onely encorage well lerned me<g ref="char:cmbAbbrStroke">̄</g> to ſet forthe and tranſlate into our mother tonge / many good thynges and ver<g ref="char:EOLhyphen"/>tuous / whiche for feare of wrong ta<g ref="char:EOLhyphen"/>kynge / they dare nat yet do: but alſo that ye / by the good vſe therof / ſhall take moche good and great ſpiritu<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:6419:9"/>
+profyte / whiche thyng in you par<g ref="char:EOLunhyphen"/>ceyued / ſhall gyue occaſyon that ſu<g ref="char:EOLhyphen"/>che holy thynges / as yuell diſpoſed ꝑſons by falſe and erronyous tranſla<g ref="char:EOLhyphen"/>tion corrupted / delyuer you to your immynent paryll &amp; diſtruction / gode men and well lerned may be parcaſe in tyme co<g ref="char:cmbAbbrStroke">̄</g>mynge the bolder / truely &amp; faythfully tranſlated / ſubſtancyally viewed and corrected / by ſuffycient authorite to putte in your handes / to your inwarde ſolace and goſtly con<g ref="char:EOLhyphen"/>forte / to the full extyrpation of all ſe<g ref="char:EOLhyphen"/>ditious errours / encreaſe of your de<g ref="char:EOLhyphen"/>uotion and charitable faithe to god / eſtablyſſhment of goddes grace / and fauour towardes you / &amp; therby good workes with your dilygent endeuer more plentuouſly ſpringyng in you / your ſynnes remyſed &amp; forgyuen you by his mercy: ye ſhall nat onely in he<g ref="char:EOLunhyphen"/>uyn attayne thoſe ineſtimable rewar<g ref="char:EOLunhyphen"/>des
+<pb facs="tcp:6419:9"/>
+/ y<hi rend="sup">t</hi> your merytes can nat of their own nature / but of his lyberall good<g ref="char:EOLunhyphen"/>neſſe / with vertue of his paſſyon de<g ref="char:EOLhyphen"/>ſerue / but alſo by your good prayers and interceſſyo<g ref="char:cmbAbbrStroke">̄</g>s / lyueng vertuouſly in the lawes of god / and this realme cauſe ſoner vnyuerſall peace in chri<g ref="char:EOLhyphen"/>ſtendome / to enſue &amp; folowe: whiche thyng in erthe ſhulde be moſt deſired of all true chriſte<g ref="char:cmbAbbrStroke">̄</g> men next after heue<g ref="char:cmbAbbrStroke">̄</g> / to which place of ioy our lorde ſende me with you / where I had leuer to be your ſeruau<g ref="char:cmbAbbrStroke">̄</g>t / than here your kyng.</p>
+            <closer>
+               <salute>Valete.</salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>¶ The letter of Martyn Luther.</head>
+            <opener>
+               <salute>¶ Vnto the moſt mighty and noble price / lorde Henry the .viii. kyng of Englande &amp; of Fraunce / his moſt benigne lorde.
+<pb facs="tcp:6419:10"/>
+GRace &amp; peace in Chryſte Ieſu / our lorde and ſauyour. Amen.</salute>
+            </opener>
+            <p>Nat withſta<g ref="char:cmbAbbrStroke">̄</g>dyng moſt noble kyng / &amp; excellent pri<g ref="char:cmbAbbrStroke">̄</g>ce / y<hi rend="sup">t</hi> I ought of reaſon to be afrayde / tatte<g ref="char:cmbAbbrStroke">̄</g>pt your highneſſe with lett<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>s / whiche am well knowing vnto my ſelf / y<hi rend="sup">t</hi> your highnes is moſt greuouſly diſpleaſed with my boke / which I nat of myn own corage / but by the inſtygation of them that dyde nat well fauoure your highneſſe / fo<g ref="char:EOLhyphen"/>liſſhely &amp; haſtely ſet forthe: neuerthe<g ref="char:EOLunhyphen"/>leſſe / I haue good conforte &amp; ſtoma<g ref="char:EOLhyphen"/>ke to write / nat onely bycauſe of that your kingly cleme<g ref="char:cmbAbbrStroke">̄</g>cy / whiche is day<g ref="char:EOLhyphen"/>lye ſo moche tolde of vnto me / bothe by wordes &amp; writyng / of very many men / that ſeing you be your ſelfe mor<g ref="char:EOLunhyphen"/>tall / I can nat thinke you wyll beare enemyte immortall: but alſo for as moche as I haue by credyble ꝑſones ben enformed / that y<hi rend="sup">e</hi> boke made out
+<pb facs="tcp:6419:10"/>
+agaynſt me in the name of your high<g ref="char:EOLunhyphen"/>neſſe / is nat the kynges of Englande as crafty Sophiſters wolde it ſhuld ſeme: whiche / whan they abuſed the name of your highneſſe / co<g ref="char:cmbAbbrStroke">̄</g>ſydred nat in what peryll they put them ſelues / by the ſclaundring of a kyng / and eſ<g ref="char:EOLhyphen"/>pecially aboue other / that monſter &amp; co<g ref="char:cmbAbbrStroke">̄</g>men hate of god and men / the car-Cardynall of yorke / that peſtylence of your realm: Wherfore / I am now ſo ſore aſhamed / that it yrketh and abaſſheth me to lyfte vp myne eyen a<g ref="char:EOLhyphen"/>fore your highneſſe / whiche haue ſuf<g ref="char:EOLunhyphen"/>fred my ſelfe to be with ſuche lyght<g ref="char:EOLhyphen"/>neſſe moued agaynſt ſuche &amp; ſo great a kynge by thoſe workes of wycked<g ref="char:EOLhyphen"/>neſſe / namely being my ſelf but dreg<g ref="char:EOLhyphen"/>ges and a worme / whiche had ought onely by contempte / to haue been ey<g ref="char:EOLhyphen"/>ther ouercomyn or let alone: Alſo an other thyng is / whiche ſeriouſly cau<g ref="char:EOLunhyphen"/>ſed
+<pb facs="tcp:6419:11"/>
+me beyng neuer ſo vyle / yet for to write / bycauſe your highneſſe begyn<g ref="char:EOLunhyphen"/>neth to fauour the goſpell / and wexe nat a lytell wery of that ſorte of vn<g ref="char:EOLhyphen"/>gratious folkes. Verily that was goſpell in dede / that is to ſay / gladde tidynges vnto my hert: wherfore I proſtrate my ſelfe with theſe letters / vnto the fete of your highneſſe / as hu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>bly as I can deuyce / and beſeche for the croſſe and honour of Chriſt / that your highneſſe wolde vouche ſafe to enclyne ſome thyng / and pardon me / in whatſoeuer I haue offended your highneſſe / lyke as Chriſt prayed and co<g ref="char:cmbAbbrStroke">̄</g>maunded vs alſo / one to forgyue a<g ref="char:EOLunhyphen"/>nother his dettꝭ: Moreouer / if your highneſſe thynke it nat to be refuſed / that I make out another booke / and therin vnſay my former writynge / &amp; nowe on the contrary ſyde / honoure the name of your highneſſe / pleaſe it
+<pb facs="tcp:6419:11"/>
+your maieſtie to gyue me ſome myl<g ref="char:EOLhyphen"/>de token / &amp; there ſhalbe no taryenge in me / but I ſhall do it moſt gladly / for though I be a man of no reputa<g ref="char:EOLhyphen"/>tion / in co<g ref="char:cmbAbbrStroke">̄</g>pariſon of your highneſſe: yet myght we truſt that no ſmall fru<g ref="char:EOLunhyphen"/>te ſhuld growe vnto the goſpell and the glorie of god herby / if I myght haue lyberte to write in the cauſe of the goſpell / vnto the kyng of Engla<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>de. In the meane ſeaſon our lorde en encreaſe your hyghneſſe / as he hath begon / that you may with full ſpy<g ref="char:EOLhyphen"/>rite / bothe obey and fauour the goſ<g ref="char:EOLhyphen"/>pell: and he ſuffre nat your regall ea<g ref="char:EOLhyphen"/>res and mynde to be holden with the miſcheuous voyces of thoſe mermay<g ref="char:EOLunhyphen"/>des that can nothyng / but crye y<hi rend="sup">t</hi> Lu<g ref="char:EOLhyphen"/>ther is an herityke: and it maye lyke yo<hi rend="sup">r</hi> highneſſe to co<g ref="char:cmbAbbrStroke">̄</g>ſyder what harme can I teche / that teacheth none other thynge / but that we muſt be ſaued by
+<pb facs="tcp:6419:12"/>
+the faythe of Ieſu Chryſte / ſonne of god: whiche for vs ſuffred / and was rayſed agayne / as witneſſeth the goſ<g ref="char:EOLunhyphen"/>pell and the epyſtols of the apoſtels / for this is the heed and fou<g ref="char:cmbAbbrStroke">̄</g>datyon of my doctryne: vpon whiche aftwarde I buylde and teche charyte towarde our neyghbour / obedyence vnto the heedes and rulers of countrees / and finally to crucifye the body of ſynne / lyke as the doctrine of Chriſt co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>deth: what yll is in theſe chapters of doctryne? yet let the mater be loked vpon / let it haue hearyng and iuge<g ref="char:EOLhyphen"/>ment fyrſt: why am I condempned / neyther herde ne conuycte? Further<g ref="char:EOLhyphen"/>more / where I rebuke the abuſion of popes / whiche teche other than theſe foreſayd chapiters / and nat onely o<g ref="char:EOLhyphen"/>ther / but alſo clene contrary / and in the meane tyme leanynge them ſelfe vpon po<g ref="char:cmbAbbrStroke">̄</g>pe / money their belyes / ye / &amp;
+<pb facs="tcp:6419:12"/>
+kyngdomes / principalytees / &amp; euery mannes rycheſſe / dothe nat the very co<g ref="char:cmbAbbrStroke">̄</g>men people parceyue this &amp; da<g ref="char:cmbAbbrStroke">̄</g>pne it / and their owne ſelues be co<g ref="char:cmbAbbrStroke">̄</g>ſtray<g ref="char:EOLhyphen"/>ned to confeſſe it? why do they nat a<g ref="char:EOLhyphen"/>mende them ſelues and teche well / if they wyll be without hate &amp; blame? Alſo your noble maieſty ſeeth / howe great princes in Almayne fauoureth my partie / and tha<g ref="char:cmbAbbrStroke">̄</g>ked be god / wolde I ſhulde nat be condempned / vnto whoſe company and nombre / I pray Chriſt he adde &amp; adioyne your high<g ref="char:EOLhyphen"/>neſſe / and ſeperate you from thoſe ty<g ref="char:EOLunhyphen"/>rannes of ſoules. Nowe / what won<g ref="char:EOLunhyphen"/>der is it / though Ceſar and certayne princes be ſore agaynſt me? Dothe nat natyons murmure agaynſt oure lorde and his Chriſt? As the ſeconde pſalme ſaith people ſtudy / kynges of the erthe co<g ref="char:cmbAbbrStroke">̄</g>ſppyre / and princes come togyder / in ſo moche / y<hi rend="sup">t</hi> it is more to
+<pb facs="tcp:6419:13"/>
+be marueyled at / if any pri<g ref="char:cmbAbbrStroke">̄</g>ce or kyng fauour y<hi rend="sup">e</hi> goſpell / and I deſyre with all my hert inwardly / that I may o<g ref="char:EOLhyphen"/>nes haue cauſe to reioyce &amp; make con<g ref="char:EOLunhyphen"/>gratulatyon of this myracle in your highneſſe / and I pray god / by whoſe fauour and aſſiſte<g ref="char:cmbAbbrStroke">̄</g>ce. I write this let<g ref="char:EOLhyphen"/>ter / that he ſo worke with my wordꝭ / that the kynge of Englande may be made ſhortly / the perfyte diſcyple of Chriſt and profeſſour of the goſpell / and finally / moſt benigne lorde vnto Luther. Amen. Some anſwere / if it may lyke your highneſſe I loke af<g ref="char:EOLunhyphen"/>ter / mylde and benigne: </p>
+            <closer>
+               <dateline>At wyttem<g ref="char:EOLhyphen"/>burch / <date>the fyrſte day of Septembre / the yere of our lorde / a. M.D.xxv.</date>
+               </dateline> 
+               <signed>Moſt humble ſubiecte vnto your regall maieſty / Mar<g ref="char:EOLhyphen"/>tyn Luther / his owne ha<g ref="char:cmbAbbrStroke">̄</g>de.</signed>
+            </closer>
+         </div>
+         <div type="letter_in_reply">
+            <pb facs="tcp:6419:13"/>
+            <head>¶ The anſwere of the moſt mighty &amp; noble pri<g ref="char:cmbAbbrStroke">̄</g>ce kyng He<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ry the .viii. kyng of Engla<g ref="char:cmbAbbrStroke">̄</g>de &amp; of Frau<g ref="char:cmbAbbrStroke">̄</g>ce / defe<g ref="char:cmbAbbrStroke">̄</g>ſor of the fayth and lorde of Irela<g ref="char:cmbAbbrStroke">̄</g>de / vnto the letters of Martyn Luther.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our letters wryt<g ref="char:EOLhyphen"/>ten the fyrſt day of Sep<g ref="char:EOLunhyphen"/>tembre / we haue recey<g ref="char:EOLhyphen"/>ued the .xx. day of Mar<g ref="char:EOLhyphen"/>che: In whiche ye write your ſelfe / to be ſorie and aſhamed / that ye folyly &amp; haſtely / nat of your owne mynde: but by the inſtyga<g ref="char:EOLhyphen"/>tion of other / ſuche as lytell fauou<g ref="char:EOLhyphen"/>red me / dyd put out your boke agai<g ref="char:cmbAbbrStroke">̄</g>ſt me / with whiche ye knowe your ſelfe that ye haue ſore offended me / And therfore haue cauſe to be i<g ref="char:cmbAbbrStroke">̄</g> drede and
+<pb facs="tcp:6419:14"/>
+ſhame to write vnto me. Nat with<g ref="char:EOLhyphen"/>ſtandyng / ye ſaye that ye be the more bolde nowe to write vnto me / nat on<g ref="char:EOLhyphen"/>ly bycauſe ye parceyue my benignite ſuche / that co<g ref="char:cmbAbbrStroke">̄</g>ſydring my ſelfe a man mortall / I wyll nat beare immortall enmyte: but alſo for as moche / as ye by credible enformation / vnderſta<g ref="char:cmbAbbrStroke">̄</g>de that the boke put forthe in my name / for the aſſertyon of the Sacrame<g ref="char:cmbAbbrStroke">̄</g>tes was nat myn own / but fraudulently deuiſed by falſe Sophiſters / to myn ignominy and rebuke / and ſpecially by the Cardynall of yorke / whom ye call a monſter / odious to god &amp; man / and the peſtyle<g ref="char:cmbAbbrStroke">̄</g>ce of my realme: And therfore ye ſay / that ye be nowe aſha<g ref="char:EOLhyphen"/>med to lyfte vp your eyen to me / that haue of lightnes ſo ſuffred your ſelf to be moued agaynſt ſuche a kynge / whiche natwithſta<g ref="char:cmbAbbrStroke">̄</g>dynge / ye write y<hi rend="sup">t</hi> ye be forced and compelled erneſtly
+<pb facs="tcp:6419:14"/>
+to write vnto me / bycauſe y<hi rend="sup">t</hi> I haue nowe begon to beare fauoure to the goſpell / whiche is (as ye ſaye) ioy<g ref="char:EOLhyphen"/>full tidynges to your herte / wherin ye beſeche god to encreſe me / that I may with hole hert obey and fauour the goſpell: And y<hi rend="sup">t</hi> he ſuffre nat myn eares to be occupyed with the peſty<g ref="char:EOLhyphen"/>lent voyces of thoſe Serenis / which can nothyng els do / but crye out that Luther is an heretyke.</p>
+            <p>¶ ye write alſo / y<hi rend="sup">t</hi> ye wolde I ſhulde conſyder / that there can be no harme in your doctryne / ſyth ye teche (as ye ſay) nothing els / but onely that man muſt nedes be ſaued / in the faythe of Ieſu Chriſt: And y<hi rend="sup">t</hi> vpon this fou<g ref="char:cmbAbbrStroke">̄</g>da<g ref="char:EOLunhyphen"/>tion / ye bylde charite to your neygh<g ref="char:EOLhyphen"/>bours and obeydience to your gouer<g ref="char:EOLunhyphen"/>nours / with the crucifyeng of y<hi rend="sup">e</hi> body of ſynne: And in theſe ye deſyre to be
+<pb facs="tcp:6419:15"/>
+herde / moche marueyling that ye be condempned vnherde and vnco<g ref="char:cmbAbbrStroke">̄</g>uyct: Than after your accuſtomed maner / ye rayle vpon the churche of Rome: boſtyng y<hi rend="sup">t</hi> many princes of Almayne take your parte / &amp; that it is no mar<g ref="char:EOLhyphen"/>ueyle / though the Emperour &amp; ſome other pri<g ref="char:cmbAbbrStroke">̄</g>ces and people purſue you / but rather were it wondre that any wolde holde with you / for aſmoch as alwaye princes and people be (as ye ſay) enemyes to Chriſt: wyſſhinge / that ye myght ones ſe that myracle / that by god worki<g ref="char:cmbAbbrStroke">̄</g>g with your good wordes / I might be fully tourned to be one of thoſe that might fauour the goſpell / and be a fauourer of yours: Requyring and beſechyng me in dy<g ref="char:EOLhyphen"/>uers partes of your letter to pardon you / that ye haue offe<g ref="char:cmbAbbrStroke">̄</g>ded me by your boke / and offrynge your ſelfe / if it ſo ſta<g ref="char:cmbAbbrStroke">̄</g>de with my pleaſure / that ye wyll
+<pb facs="tcp:6419:15"/>
+write &amp; put out another booke to my prayſe / recantyng and reuokyng all ſuche wordes / as ye haue in your o<g ref="char:EOLhyphen"/>ther boke written to the contrary / af<g ref="char:EOLhyphen"/>fyrming alſo / that no litell frute were lyke to growe therof / if ye might ha<g ref="char:EOLhyphen"/>ue leaue / at liberte to write to y<hi rend="sup">e</hi> king of Englande / co<g ref="char:cmbAbbrStroke">̄</g>cernyng the goſpell of god. ¶ Theſe be Luther all thyn<g ref="char:EOLhyphen"/>ges / whiche were in your letter con<g ref="char:EOLhyphen"/>tayned: In whiche / as we right well ꝑceyue your couert fraudulent pur<g ref="char:EOLhyphen"/>poſe / ſo ſhall we on the otherſyde / af<g ref="char:EOLhyphen"/>ter our accuſtomed playnneſſe (leſte your crafty wayes might abuſe gode ſymple folke) to euery poynt gyue you trewe and open anſwere.</p>
+            <p>¶ where ye write / ye be aſhamed of your boke written agaynſt me / I am nat very ſure / whyder ye ſaye trewe therin: but of one thynge I am very
+<pb facs="tcp:6419:16"/>
+ſure / that ye haue good cauſe to be a<g ref="char:EOLhyphen"/>ſhamed / nat onely of that booke / but alſo of a great meyny mo than that / they beyng ſuche as they be: nothyng els co<g ref="char:cmbAbbrStroke">̄</g>tayning / but errours and here<g ref="char:EOLhyphen"/>ſyes / neyther by reaſon nor lernynge proued / but onely by ſhameleſſe bold<g ref="char:EOLunhyphen"/>neſſe affyrmed: Alowyng your ſelfe / to be as good or better authour / than any afore your tyme hath ben / or be nowe. And as touchyng your boke written agaynſt me / who ſo ſolycited or prouoked you to put that forth / ra<g ref="char:EOLhyphen"/>ther ſemed to haue be<g ref="char:cmbAbbrStroke">̄</g> your yuell wyl<g ref="char:EOLunhyphen"/>ler / than myne / your boke being ſuch as the maker coude therof haue but rebuke / and myn therby be moche ho<g ref="char:EOLunhyphen"/>noured: Againſt which boke of myn your boke declared / y<hi rend="sup">t</hi> ye coude fynde no wyſe worde to write / nor alledge authour of ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce agaynſt it / whi<g ref="char:EOLunhyphen"/>che thynge is ynough (as I thynke)
+<pb facs="tcp:6419:16"/>
+for the reders or hearers / to dyſcuſſe / whiche of vs is in the righter faithe: And although ye fayne your ſelfe to thynke my boke nat myne owne / but to my rebuke (as it lyketh you to af<g ref="char:EOLhyphen"/>fyrme) put out by ſubtell ſophiſters: yet it is well knowen for myn / and I for myne auowe it: and as for the re<g ref="char:EOLhyphen"/>buke / though ye diſſimule it / yet may all the worlde well ꝑceyue / how mo<g ref="char:EOLhyphen"/>che it fretteth your ſtomake: that nat onely my worke / hathe ſo highly to myne honour ben approued of many wyſe and good men / but ſpecially of that holy ſee Apoſtolyke alſo / of who<g ref="char:cmbAbbrStroke">̄</g> ſaynt Hierome rekened it ſuffycient / that his faith were approued / in whi<g ref="char:EOLunhyphen"/>che neuertheleſſe / if any good thyng be / I do aſcrybe it to hym / of whom all goodneſſe cometh / and nat to me: Howe beit / this delyteth me nat a ly<g ref="char:EOLhyphen"/>tell / that as ſymple as my boke was
+<pb facs="tcp:6419:17"/>
+(for I knowe well inough myn own imbecillyte) yet ſomoche more feble was your cauſe / that my boke for ſo farre as it touched (that is to wytte / the Sacramentes of Chriſtes chur<g ref="char:EOLhyphen"/>che) nat onely clene wyped away / all that euer ye had blaſphemuſly writ<g ref="char:EOLhyphen"/>ten agaynſt them before: but alſo / all that euer ſythens ye ꝑniciouſly haue written agaynſt the<g ref="char:cmbAbbrStroke">̄</g> / and droue you to the writyng of that furious boke / by whiche all the worlde well ꝑcey<g ref="char:EOLhyphen"/>ued / that ye were for angre fallen (as who ſayth) in a very franſy: In whi<g ref="char:EOLhyphen"/>che boke / all wytte / lernyng / and ho<g ref="char:EOLhyphen"/>neſty forgotten: ye nothynge alledge but mere ſcurrilyte / furious babling braulyng / and conuytious raylyng: where as I refelled your erronyous opinyons (nat without charyte and labour of your ame<g ref="char:cmbAbbrStroke">̄</g>dement) by effe<g ref="char:EOLhyphen"/>ctuall reaſon and euydent ſcrypture:
+<pb facs="tcp:6419:17"/>
+nat interpreted after myne owne fan<g ref="char:EOLunhyphen"/>taſye (as ye do by yours) but by the olde holy fathers of Chriſtꝭ churche / nat medli<g ref="char:cmbAbbrStroke">̄</g>g therin / with any of thoſe whom ye call Sophyſters / which be men in dede / good / vertuous / &amp; con<g ref="char:EOLhyphen"/>nyng: Whom ye therfore call Sophi<g ref="char:EOLunhyphen"/>ſters / bycauſe that euery ſubſta<g ref="char:cmbAbbrStroke">̄</g>tyall reaſon / by which they confou<g ref="char:cmbAbbrStroke">̄</g>de your foly / ye wolde were enfamed / vnder the name of Sophiſtry.</p>
+            <p>¶ And where as your peſtilent tong is ſo leude / to rayle vpon the moſt re<g ref="char:EOLhyphen"/>uerende father in god / the lorde Le<g ref="char:EOLhyphen"/>gate / Cardynall of yorke / oure chefe counſailour &amp; Chau<g ref="char:cmbAbbrStroke">̄</g>celler / it greueth hym lytell (I wot well) to be rayled vpon / with y<hi rend="sup">t</hi> blaſphemous to<g ref="char:cmbAbbrStroke">̄</g>g / that rayleth and rageth againſt Chriſtes hole churche / his ſaintꝭ / his apoſtles / his holy mother / and hym ſelfe / as it
+<pb facs="tcp:6419:18"/>
+euidently (as well by many partes of your peſtylent bokes / as by the fu<g ref="char:EOLhyphen"/>rious actꝭ of your faction) appereth: And his fatherhode nowe is &amp; ſhalbe ſo moche in more cordyall fauoure with me / In how moche I parceyue hym to be the depar in the hatered of you / or other ſuche as ye be: whome where ye call / the peſtilence of my re<g ref="char:EOLhyphen"/>alme / I purpoſe to gyue you no rek<g ref="char:EOLhyphen"/>nynge / what manyfolde good frute my realme &amp; I receyue by his fayth<g ref="char:EOLhyphen"/>full dilygence / labour / traueyle and wyſedome: Howbeit / all other thyn<g ref="char:EOLhyphen"/>ges ſet a parte / it well appereth / that his fatherhode is in this one poynt / to my realme very gode and holſome in that he conformable to my mynde and accordyng to my co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dement / ſtudiouſly pourgeth my realm from the peſtylent contagion of your facti<g ref="char:EOLunhyphen"/>ous hereſyes: with whiche among / 
+<pb facs="tcp:6419:18"/>
+there entreth ſome in to my Realme right ſicke / out of ſuch placꝭ as your vnholſome brethe hath enfected / who<g ref="char:cmbAbbrStroke">̄</g> as they haue be founden / we haue by the holſome and good dilyge<g ref="char:cmbAbbrStroke">̄</g>ce of the ſayd moſt reuerende father / nat only kept of from thenfecting of our own people / but haue alſo with right cha<g ref="char:EOLhyphen"/>ritable handelyng / holpen and cured them: For as for our owne ſubiectes we truſt in goddes help / haue &amp; ſhall haue / lytell faythe in your erronious opinyo<g ref="char:cmbAbbrStroke">̄</g>s / what ſoeuer hope ye be put in / eyther by other wayes / or by one or two Freres apoſtataes / ron out of our realme / raignyng in riote &amp; vn<g ref="char:EOLhyphen"/>thriftye lyberte with you / of whome we reken our Realme ſo well rydde / that if there were any mo ſuche here (as we truſte there be nat many) we wolde ye had them to.</p>
+            <p>
+               <pb facs="tcp:6419:19"/>¶ It is a gladde tidynges to youre hert / ye ſay / that I nowe haue begon to beare fauoure to the Goſpell / as though I had neuer fauoured y<hi rend="sup">e</hi> goſ<g ref="char:EOLhyphen"/>pell before: Howbeit y<hi rend="sup">t</hi> I haue nat ſo late (as ye make for) begon to loue &amp; reuerently rede the Goſpell / though ye lyſte to diſſymule it: yet / ye ryght well ꝑceyue / by that I haue all redy by the playne goſpell diſproued euy<g ref="char:EOLhyphen"/>de<g ref="char:cmbAbbrStroke">̄</g>tly / ſome of your pernitious here<g ref="char:EOLhyphen"/>ſies / wherby ye well fynde / that this is nat the fyrſt tyme that I haue en<g ref="char:EOLhyphen"/>termedled me with the ſaid goſpels / wherfore wete ye well / the Goſpell longe hath ben / and euer ſhalbe / my chefe ſtudy: as the doctryne moſt hol<g ref="char:EOLunhyphen"/>ſome to euery man that wyll / in y<hi rend="sup">e</hi> ſtu<g ref="char:EOLunhyphen"/>dye therof / vſe a way contrary to that that ye do: Whiche in the interpreta<g ref="char:EOLhyphen"/>tion therof / vſe to folo<g ref="char:EOLunhyphen"/>we your owne fantaſticall inue<g ref="char:cmbAbbrStroke">̄</g>tion / agaynſt all the
+<pb facs="tcp:6419:19"/>
+worlde beſyde / contrary to the coun<g ref="char:EOLhyphen"/>ſayle of the wyſe man / that ſaythe:
+
+<note place="margin">Fili ne i<g ref="char:cmbAbbrStroke">̄</g>ni<g ref="char:EOLunhyphen"/>taris pru<g ref="char:EOLhyphen"/>dentiae tuae et ne ſapi<g ref="char:EOLhyphen"/>ens uideri uelis in oc<g ref="char:EOLunhyphen"/>culis tuis.</note>
+
+               <q>Sonne / leane nat vnto thyne owne wyt / nor take nat thy ſelfe for a wyſe man:</q>
+ 
+ But as for me / I well knowe and knowledge / that I am vnable of my ſelfe to the vnderſta<g ref="char:cmbAbbrStroke">̄</g>dyng therof / and therfore callyng for goddꝭ helpe / moſt humbly ſubmitte my ſelfe to the determynation of Chriſtes churche / and interpretations of the olde holy fathers / whom his goodneſſe plentu<g ref="char:EOLhyphen"/>ouſly lightned with lernyng / illumi<g ref="char:EOLhyphen"/>ned with grace / furniſhed with faith garnyſſhed with good workes / and finally / with many myracles decla<g ref="char:EOLhyphen"/>red their faithe and lyuenge to lyke hym: Where ye on the contrary ſyde / ſetti<g ref="char:cmbAbbrStroke">̄</g>g all theſe olde ſayntꝭ at nought / and villanouſly blaſphemynge their memories / procuring the detractyon of their honour / leſt the reuere<g ref="char:cmbAbbrStroke">̄</g>ce and
+<pb facs="tcp:6419:20"/>
+eſtymation of their holy lyues ſhuld ſtande in your light / admitte no ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>nes wyt but your own (whiche onely you admytte in all thing) and deſen<g ref="char:EOLhyphen"/>dyng a manyfeſt foly for wyſedome / an open falſe hereſy for a truthe / haue nothynge els to ſtande by / but onely crye out that the ſcripture is euydent for your parte: and that all that euer toke it otherwyſe / were but fooles: Were they neuer ſo many / neuer ſo wyſe / neuer ſo well lerned / neuer ſo holy: And whan ye haue thus well &amp; worſhipfully quitte your ſelfe in wor<g ref="char:EOLunhyphen"/>des / than inſtigate and ſette out rude rebellyous people / vnder pretext of Euangelicall lyberte / to ron out and fyght for your faction.</p>
+            <p>¶ If any man had ſo lytell wytte to dout / which of theſe two ways were the better / yours nowe newe begon / 
+<pb facs="tcp:6419:20"/>
+or the faythe of the olde fathers: our Sauyour putteth vs out of doubte / where he ſaythe:
+ 
+ <note place="margin">Ex fructi<g ref="char:EOLhyphen"/>bus eorum cognoſce<g ref="char:EOLhyphen"/>tis eos.</note>
+ 
+               <q>By their frutes ye
+
+
+
+ ſhall knowe them:</q>
+ 
+ For of the<g ref="char:cmbAbbrStroke">̄</g> no man douteth / but they were good men &amp; of holy lyueng / ſeruynge god / in fa<g ref="char:EOLhyphen"/>ſtynge / prayer / and chaſtyte: And all their writynge full of charite / and of you / men dout as lytell / whan they ſe that all your doyng began of enuy &amp; preſumption / procedeth with ra<g ref="char:cmbAbbrStroke">̄</g>cour and malyce / blowen forth with pride and vaynglorie / &amp; endeth in lechery: And therfore / cloke ye neuer ſo moch your doctryne / vnder the pretexte of euangelycall lyberte: nat withſtan<g ref="char:EOLhyphen"/>dyng / that I knowe howe ſklendre myne owne lernyng is / yet is it nat ſo ſklendre / that ye can make me be<g ref="char:EOLhyphen"/>leue that ye meane well / whan ye ſpe<g ref="char:EOLunhyphen"/>ke faſt of y<hi rend="sup">e</hi> ſpirite / and fall all to the fleſſhe: Whan ye make / as ye wolde
+<pb facs="tcp:6419:21"/>
+exhort all the worlde to lyue after the goſpell / and than exhorte me<g ref="char:cmbAbbrStroke">̄</g> fro cha<g ref="char:EOLhyphen"/>ſtite / to which the goſpell effectually counſayleth: and forſake your ſelfe / your vowed chaſtyte / promyſed and dedycate to god / to the kepynge and obſeruaunce wherof / all holy ſcrip<g ref="char:EOLhyphen"/>ture byndeth you.</p>
+            <p>¶ ye write that ye be aſhamed to lift vp your eyen to me / for that ye ſhulde of lightneſſe ſuffre your ſelfe to be ſo ſore moued by thynſtigation of yuell folke to write ſuch a boke agai<g ref="char:cmbAbbrStroke">̄</g>ſt me: But I moche marueile in good faith that ye be nat i<g ref="char:cmbAbbrStroke">̄</g> erneſt aſhamed to lyft vp your eyes and loke / eyther vpon god or good man / that haue ſuffered your ſelfe by the deuyls inſtigation / to fall in that lyghtneſſe of wyt / that for the folly of your fleſſhe / ye beyng a Frere haue taken a Nonne: &amp; nat
+<pb facs="tcp:6419:21"/>
+onely vyolate her (whiche if ye had done among the olde Romayns that were paynyms / ſhe ſhulde haue been buried quicke / and ye beaten to deth) but alſo which moche worſe is / haue ope<g ref="char:cmbAbbrStroke">̄</g>ly maried her / &amp; by that menes o<g ref="char:EOLhyphen"/>penly abuſe her in ſynne / with y<hi rend="sup">e</hi> won<g ref="char:EOLunhyphen"/>der of the worlde and abhomynable contempte / as well of the ſacrament of Matrimonye / as of youre bothe vowes of chaſtite. And that worſt is of all / where ye ſhulde be aſhamed &amp; ſorie for this heynous dedes / in ſtede of repentaunce ye take therin pride / and ſo farre be fro the deſyre of for<g ref="char:EOLhyphen"/>gyueneſſe of your own ſynne / that ye by your bokes / exhorte other vnthrif<g ref="char:EOLhyphen"/>tes therto.</p>
+            <p>¶ And in this doynge / it is no mar<g ref="char:EOLhyphen"/>ueyle / though ye wolde that men had no reuerence to the olde holy fathers.
+<pb facs="tcp:6419:22"/>
+For who ſo beleue y<hi rend="sup">t</hi> they were good / muſt nedes parceyue y<hi rend="sup">t</hi> ye be nought which bothe teache and do ſo many<g ref="char:EOLhyphen"/>feſtly the contrary of their dedes and doctryne. For who can lyke a freres maryage / if he ſette ought by ſaynt Hierome: for to the<g ref="char:cmbAbbrStroke">̄</g> that hath vowed
+ chaſtite / ſaith this holy man
+
+<note place="margin">Vouentibus no<g ref="char:cmbAbbrStroke">̄</g> ſolum nu<g ref="char:EOLhyphen"/>bere / ſed etia<g ref="char:cmbAbbrStroke">̄</g> velle damna<g ref="char:EOLhyphen"/>bile eſt.</note>
+
+               <q>/ it is da<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>nable / nat only to wedde in dede / but alſo to wyll or wyſſhe it.</q>
+ 
+ Rede well his Epyſtell written to the Nonne y<hi rend="sup">t</hi> was gotten with chylde / &amp; his other to the Deacon that dyde that ſynfull dede: And therin / &amp; in other lyke let<g ref="char:EOLhyphen"/>ters and holy writyng of olde holy fa<g ref="char:EOLunhyphen"/>thers / lerne to repent your owne fau<g ref="char:EOLhyphen"/>tes / rather than in makyng bokes for the defence of your vnexcuſable ſyn / to drawe by your yuell example &amp; vngratyous counſayle / more wretched company with you to the deuyll.</p>
+            <p>
+               <pb facs="tcp:6419:22"/>¶ ye that ſo moche boſt your ſelfe of holy ſcripture / I marueyle ye can ſet ſo lytell by your vowe / whan ye rede
+ therin this holy ſayeng: 
+<note place="margin">Si q<hi rend="sup">i</hi>d vouiſti deo ne more<g ref="char:EOLhyphen"/>ris reddere diſplicet enim deo infidelis promiſſio.</note>
+
+               <q>If thou ha<g ref="char:EOLhyphen"/>ue any thynge vowed to god / delay nat the performyng therof: for an vn<g ref="char:EOLhyphen"/>faithfull promyſe diſpleaſeth god.</q>
+            </p>
+            <p>Rede ye nat alſo there theſe wordes: 
+
+<note place="margin">Vouete &amp; red<g ref="char:EOLunhyphen"/>dite / dn<g ref="char:cmbAbbrStroke">̄</g>o deo veſtro.</note>
+
+               <q>To your lorde god make ye vowes /  and fulfyll the<g ref="char:cmbAbbrStroke">̄</g>?</q> What ſay ye by theſe wordꝭ
+
+<note place="margin">Quum vo<g ref="char:EOLhyphen"/>tum voueris dn<g ref="char:cmbAbbrStroke">̄</g>o deo tuo non tardabis reddere: quia requiret illud dn<g ref="char:cmbAbbrStroke">̄</g>s deꝰ tuus et ſi mortuus fueris reputa<g ref="char:EOLunhyphen"/>bitur etia<g ref="char:cmbAbbrStroke">̄</g> tibi in peccatum.</note>
+
+               <q>/ whan thou haſt made a vowe to thy lorde god / come of and ꝑforme it: For thy lorde god will haue a rek<g ref="char:EOLhyphen"/>nyng therof. And if thou dye / it wyll be layde to thy charge for a ſyn?</q>
+ 
+ But ye reken I trowe / holy vowes of fa<g ref="char:EOLhyphen"/>ſtynge and chaſtyte / ſeruyle cerymo<g ref="char:EOLhyphen"/>nies of Moyſes lawe / for your wri<g ref="char:EOLhyphen"/>tyng and lyueng / ſemeth to reken the Euaungelycall lybertie of the newe lawe / to ſta<g ref="char:cmbAbbrStroke">̄</g>de in lyueng after liking: but the prophete Iſaye ſayde / that 
+ 
+ <q>in
+<pb facs="tcp:6419:23"/>
+that tyme (meaning y<hi rend="sup">e</hi> tyme of Chri<g ref="char:EOLhyphen"/>ſtes lawe) they ſhall vowe vowes to our lorde and performe the<g ref="char:cmbAbbrStroke">̄</g> 
+
+                  <note place="margin">In die illa uota uoue<g ref="char:EOLunhyphen"/>bu<g ref="char:cmbAbbrStroke">̄</g>t domi<g ref="char:cmbAbbrStroke">̄</g>o et ſoluent</note>
+               </q>
+
+/ ſhe wing that vowes ſhulde haue in Chriſtes lawe more ſtrength / &amp; be better kept / than in the olde lawe: Wherof god ſhewed example / whan he toke ven<g ref="char:EOLhyphen"/>geaunce vpon Ananias and his wife for that they had broken their vowe to god / i<g ref="char:cmbAbbrStroke">̄</g> kepyng aſyde ſome of their owne money / Whervpon holy ſaynt Gregorie / as though he myght ſeme to ſpeke to your le<g ref="char:cmbAbbrStroke">̄</g>man and you (for weddi<g ref="char:cmbAbbrStroke">̄</g>g was it none y<hi rend="sup">t</hi> ye were wed<g ref="char:EOLhyphen"/>ded with) ſaithe in this wyſe.
+
+
+<note place="margin">Ananias deo pecunias vo<g ref="char:EOLhyphen"/>uerat / quas poſt victus ꝑ ſuaſione dia<g ref="char:EOLhyphen"/>boli ſubtraxit. Sed qua mor<g ref="char:EOLunhyphen"/>te mulctatꝰ eſt ſcis. Si ergo ille mortis pe<g ref="char:EOLunhyphen"/>riculo dignus fuit / qui eos quos dederat nummos deo abſtulit. Con<g ref="char:EOLunhyphen"/>ſidera quanto periculo i<g ref="char:cmbAbbrStroke">̄</g> di<g ref="char:EOLhyphen"/>ui<g ref="char:cmbAbbrStroke">̄</g>o iudicio di<g ref="char:EOLunhyphen"/>gnus eris qui non nummos ſed temetip<g ref="char:cmbAbbrStroke">̄</g>m deo oi<g ref="char:cmbAbbrStroke">̄</g>potenti cui te ſub  mo<g ref="char:EOLunhyphen"/>nachali habi<g ref="char:EOLunhyphen"/>tu donaueras ſubtraxiſti.</note>
+            </p>
+            <q>Ananyas vowed money to god / whi<g ref="char:EOLunhyphen"/>che he afterwarde ouercomen by the deuylles enticement withdre we / but what dethe he was punyſſhed with thou knoweſt. Than / if he was wor thy dethe / that toke away fro god a<g ref="char:EOLhyphen"/>gayn / that money that he gaue hym:
+<pb facs="tcp:6419:23"/>
+Conſydre / howe great peryll in god des iugement thou ſhalt be worthy / whiche haſt taken fro<g ref="char:cmbAbbrStroke">̄</g> almighty god / nat money / but thyn owne ſelfe / who<g ref="char:cmbAbbrStroke">̄</g> thou gaueſt vnto hym / whan thou to<g ref="char:EOLunhyphen"/>keſt the habyte of a mo<g ref="char:cmbAbbrStroke">̄</g>ke.</q>
+            <p>What ſay ye Luther? What ſaythe your leude le<g ref="char:cmbAbbrStroke">̄</g>man to this? If ye knowleged yo<hi rend="sup">r</hi> ſynne for ſynne: If ye were for your ſynne ſorie / though ye fyll by fraylte yet were there hope of amendement / as was in Mary Magdalene / Da<g ref="char:EOLhyphen"/>uyd / and many other: but now what hope is there of you / if ye perſyſt in the defence of your faut / with y<hi rend="sup">e</hi> bo<g ref="char:EOLhyphen"/>ſtyng of your leudneſſe / whan ye call your vyce vertue / and the v<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>tue vyce / Fall ye nat in this doing / depe in the maledictyon / that Iſaye ſpake of / whan he ſaid: 
+
+<note place="margin">Ve qui dicitꝭ bonum malu<g ref="char:cmbAbbrStroke">̄</g> / &amp; malu<g ref="char:cmbAbbrStroke">̄</g> bonu<g ref="char:cmbAbbrStroke">̄</g> / pone<g ref="char:cmbAbbrStroke">̄</g>tes tene<g ref="char:EOLunhyphen"/>bras lucem / et luce<g ref="char:cmbAbbrStroke">̄</g> tenebras amaru<g ref="char:cmbAbbrStroke">̄</g> in dul<g ref="char:EOLhyphen"/>ce / et dulce in amarum.</note>
+
+               <q>Wo may ye be that call good yuell / and yuell good / puttyng darkneſſe to be lyght / and light to be
+<pb facs="tcp:6419:24"/>
+darkneſſe / bytter for ſwete / &amp; ſwete for bitter?</q>
+
+Now / whan ye regard all theſe ſcriptures nothynge / whan ye wreſt them to your vnreſonable ap<g ref="char:EOLhyphen"/>petyte / whan ye contempne the inter<g ref="char:EOLunhyphen"/>pretations of holy fathers thervpon / whan ye ſet at nought their holſome doctryne / confermed by their vertu<g ref="char:EOLhyphen"/>ous lyueng: and againſt all theſe / ſet your owne ſenſualyte / and with bru<g ref="char:EOLhyphen"/>tall reaſo<g ref="char:cmbAbbrStroke">̄</g>s / rayle agaynſt all vowes (ſo manifeſt and heynous an hereſy / that there neyther hath been herde a greatter or a more open) yet ye pray god that he ſuffre nat myne eares to be occupyed with the peſtylent voy<g ref="char:EOLhyphen"/>ce of thoſe Serenys / whiche can no thynge els / but crye out that Luther is an heretyke. Where as I knowe in this behalfe no greatter Serene / than your owne workes / whiche al<g ref="char:EOLhyphen"/>moſt crye nothyng els in myn eares / 
+<pb facs="tcp:6419:24"/>
+than that Luther is an heretyke: ſo farforthe / that I moche marueyle / howe ye maye for ſhame ſaye to me / that ye teache no thyng / but that the ſaluation of man muſte nedes aryſe by the faithe of Ieſu Chriſt / the ſon of god / that for vs ſuffred his paſſion and roſe agayne / and that vpon this foundation / ye buylde and teche cha<g ref="char:EOLhyphen"/>ryte towarde oure neyghbours / and obedyence towarde the rulers / &amp; the crucifyeng of the body of ſynne.</p>
+            <p>¶ Wolde god Luther / y<hi rend="sup">t</hi> theſe wordꝭ of yours were as trewe / as I knowe them for contrary: For what charite bylde you vpon fayth / whan ye teche that faythe alone without good wor<g ref="char:EOLunhyphen"/>kes ſuffyſeth: For albeit that in your boke made agaynſt me / waxinge for ſhame halfe wery to here therof: ye layde to my charge / that I dyd ther<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:6419:25"/>
+myſſe reporte you / yet dyde ye nat onely make none erthly anſwere to your owne wordes / whiche I layde to your charge / openly prouynge in you / that deteſtable hereſy: but alſo ſayd the ſame agayne in the ſelfe bo<g ref="char:EOLhyphen"/>ke / In whiche ye pretende your ſelfe to haue ben wro<g ref="char:cmbAbbrStroke">̄</g>gfully charged ther<g ref="char:EOLhyphen"/>with before / ſayeng:
+
+<note place="margin">Sacrilegium eſt et impie<g ref="char:EOLhyphen"/>tas velle deo placere per opera et non per ſolam fi<g ref="char:EOLhyphen"/>dem.</note>
+
+               <q>That ſacrilege it is &amp; wickedneſſe / to haue any wyll to pleaſe god by good workes / and nat by onely faythe:</q>
+ 
+ whiche wordes be as open / as thoſe that ye wrote be<g ref="char:EOLunhyphen"/>fore in Babilonyca / where ye write this ſentence:
+
+<note place="margin">Ita vides <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> diues ſit ho<g ref="char:EOLhyphen"/>mo chriſtianꝰ ſiue baptiſatꝰ qui etiam vo<g ref="char:EOLhyphen"/>lens non po<g ref="char:EOLhyphen"/>teſt ꝑdere ſa<g ref="char:EOLhyphen"/>lutam ſuam qu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tiſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peccatis niſi nolit credere. Nulla enim peccata eum poſſunt da<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLunhyphen"/>nare niſi ſola incredulitas / cetera omnia / ſi radeat vel ſtet fides in promiſſionem diuina<g ref="char:cmbAbbrStroke">̄</g> bapti<g ref="char:EOLhyphen"/>ſato factam / i<g ref="char:cmbAbbrStroke">̄</g> momento ab<g ref="char:EOLhyphen"/>ſorbentet per eandem fide<g ref="char:cmbAbbrStroke">̄</g>.</note>
+
+               <q>Thus thou ſeeſt (ſaye ye) how riche is a chriſten man / or he that is baptyſed / whiche thoughe he wolde / can nat leſe his ſaluation / by any ſynnes / be they neuer ſo great: but if he wyll nat beleue / for no ſyn can dampne hym / but onely lacke of beleue / for as for all other ſynnes / if
+<pb facs="tcp:6419:25"/>
+there ſtande ſtyll or co<g ref="char:cmbAbbrStroke">̄</g>e agayn fayth
+
+
+
+ and crede<g ref="char:cmbAbbrStroke">̄</g>ce in goddes promyſe / that god made to his ſacrament of Bap<g ref="char:EOLhyphen"/>tyme / they be ſupped vp in a moment by the ſame faithe.</q>
+ 
+ Theſe wordes of yours ſhewe ſo manyfeſtly what ye meane / that there neyther nedeth nor boteth<g ref="char:punc">▪</g> any gloſe: It can receue no co<g ref="char:EOLunhyphen"/>lour / but that contrary to Chriſtes wordes
+
+<note place="margin">Anguſta e<g ref="char:cmbAbbrStroke">̄</g> uia que du<g ref="char:EOLunhyphen"/>cit ad ce<g ref="char:EOLhyphen"/>lum.</note>
+
+               <q>/ the waye is ſtrayte and na<g ref="char:EOLhyphen"/>rowe that leadeth to heuyn</q>
+ 
+ / ye / with your Euangelycall lyberte / make a brode and eaſy waye thider / to wyn you fauour of the people / teachynge that it ſhalbe ynough to beleue god<g ref="char:EOLhyphen"/>des promyſe / without any labour of good workes / whiche is farre fro the mynde of ſaynt Paule / whiche tea<g ref="char:EOLhyphen"/>cheth vs a faith that worketh by loue and alſo ſayth.
+
+<note place="margin">Si eſtis in<g ref="char:EOLhyphen"/>fide chriſti uos ipſi ꝓ<g ref="char:EOLunhyphen"/>bate.</note>
+
+               <q>If ye be in the fayth of Chriſt proue you y<hi rend="sup">t</hi>:</q>
+ 
+ whiche profe can nat be / but by good workes: For
+<pb facs="tcp:6419:26"/>
+as ſcripture ſayth:
+
+<note place="margin">Qui opera<g ref="char:EOLhyphen"/>tur iuſtitia<g ref="char:cmbAbbrStroke">̄</g> ac<g ref="char:EOLunhyphen"/>ceptꝰ eſt deo.</note>
+
+               <q>He that worketh rightuouſnes / is accepted with god:</q>
+ 
+ And ſaynt Iohan ſpekyng / agaynſt ſuche ſeductours as begile men with a vayne ydell and a deed faith / ſaith:
+
+<note place="margin">Filioli nemo vos ſeducat / qui facit iuſti<g ref="char:EOLunhyphen"/>tia<g ref="char:cmbAbbrStroke">̄</g> iuſtus eſt.</note>
+
+               <q>My chyldren / lette no man begyle you / he that iuſtly dothe / he is iuſte</q>
+ 
+ &amp; rightuous / for els to beleue of youre facion / without good workes &amp; bold<g ref="char:EOLunhyphen"/>ly to lyue in vice and wretchedneſſe / with preſumptuous hope / that your faithe ſhall ſuppe vp all your ſynnes it is a faithe worſe than deuillyſſhe / For as ſaynt Iames ſaith:
+
+<note place="margin">Tu credis <abbr>qd</abbr> vnus eſt deꝰ / et demo<g ref="char:cmbAbbrStroke">̄</g>es cre<g ref="char:EOLunhyphen"/>du<g ref="char:cmbAbbrStroke">̄</g>t et contre<g ref="char:EOLhyphen"/>miſcu<g ref="char:cmbAbbrStroke">̄</g>t. in hoc te minꝰ mali ſunt quia non times.</note>
+
+               <q>Thou be<g ref="char:EOLhyphen"/>leueſt that there is one god / ſo dothe deuylles / and trymble for drede: In this they be nat ſo yuell as thou / for thou feareſt nat.</q>
+            </p>
+            <p>¶ And verily / with that opinyon of your onely faithe / ye putte awaye all feare of god / whan ye ſay that a man
+<pb facs="tcp:6419:26"/>
+though he wolde neuer ſo fayn (how vngratius ſoeuer his dedꝭ be) ca<g ref="char:cmbAbbrStroke">̄</g> nat be damned / but if he will nat beleue: tha<g ref="char:cmbAbbrStroke">̄</g> / if this were true / there ſhulde no ma<g ref="char:cmbAbbrStroke">̄</g> nede to fere god no maner away / neyther by fere of his iugementꝭ nor iuſt puniſhmentꝭ / nor by initiall or fi<g ref="char:EOLunhyphen"/>lyall. For what nedeth a man to fere god / if onely beleue may ſaue hym / or what boteth a man to feare hell / or to labour for heuen / or to feare the diſ<g ref="char:EOLunhyphen"/>pleaſure of almighty god / if a bare faithe may ſaue his ſoule. And alſo / where as ye put clene away by your aſſertions / all feare of goddes iuge<g ref="char:EOLhyphen"/>ment from the induction of the ſacra<g ref="char:EOLunhyphen"/>ment of penaunce / &amp; wolde that only by loue we ſhulde attayne the ſame / herein ye wolde do great wronge to all ſynners / though ye by your wor<g ref="char:EOLhyphen"/>kes pretende the<g ref="char:cmbAbbrStroke">̄</g> fauour / for ye wolde take away one of the beſt meanes to
+<pb facs="tcp:6419:27"/>
+attayne y<hi rend="sup">e</hi> very ꝑfyt loue of god / whi<g ref="char:EOLunhyphen"/>che loue in hym ſelfe / encludeth a cer<g ref="char:EOLhyphen"/>tayne feare. And I feare me / that in the pylgrimage of this preſent lyfe / loue is right ſyldome very ſure if we ſette aſyde all feare / &amp; make our ſelfe to ſure: For as holy ſcripture ſaithe:
+
+<note place="margin">Ad quem re<g ref="char:EOLhyphen"/>ſpiciam dicit dn<g ref="char:cmbAbbrStroke">̄</g>s niſi ad hu<g ref="char:EOLunhyphen"/>milem et quie<g ref="char:EOLunhyphen"/>tum et timen<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g> ſermones meos.</note>
+
+               <q>Vnto who<g ref="char:cmbAbbrStroke">̄</g> ſaith our lord ſhall I loke but vpon an hu<g ref="char:cmbAbbrStroke">̄</g>ble man and a quyet / and hym that dredeth my wordes</q>
+ 
+ / by whiche appereth well / that without drede of goddes wordes / he wyll nat loke vpon a man: whervnto well ac<g ref="char:EOLhyphen"/>cordeth the wordes of ſcripture / whi<g ref="char:EOLunhyphen"/>che ſaith: 
+ 
+ <q>But if thou holde thy ſelfe continually in the feare of god / ſone ſhall thyn houſe be ſubuerted.</q>
+ 
+ Thus may ye ſe Luther what ſo euer ye ſay feare may nat well in this worlde be for borne / but if we wolde haue god tourne his face from vs / &amp; our houſe ouer tourned vpon our heed / &amp; ſurely
+<pb facs="tcp:6419:27"/>
+in ſcripture / who ſo that redeth ſhall well fynde that the gyftes and callyn<g ref="char:EOLunhyphen"/>ges of god / be dyuers and in ſondrie wayes deuyded / amo<g ref="char:cmbAbbrStroke">̄</g>ges whiche / ſer<g ref="char:EOLunhyphen"/>uyle drede is one / and yet all to one ende / without whiche medyations &amp; meanes / the ſynner can nat alwayes attayne at the fyrſt / that perfyte cha<g ref="char:EOLhyphen"/>rite that cauſeth ſaluation. Wherfore what worſe counſayle can ye gyue to ſynners / tha<g ref="char:cmbAbbrStroke">̄</g> to aduyſe them to leaue / thoſe remedies &amp; meanes / by whiche they may be pulled from ſyn / &amp; grati<g ref="char:EOLunhyphen"/>ouſly drawen to god: And of trouthe there is nat lightly any other waye / by which me<g ref="char:cmbAbbrStroke">̄</g> be drawen more often / nor yet in the begynning more ſtro<g ref="char:cmbAbbrStroke">̄</g>g<g ref="char:EOLhyphen"/>lye / than by that feare that is caſte in to the herte / by the depe co<g ref="char:cmbAbbrStroke">̄</g>ſyderation of the terrible paynes of hell / which thyng was the very cauſe / for which our mercifull Sauiour dyd caſt that
+<pb facs="tcp:6419:28"/>
+feare before the eyen of his bleſſed a<g ref="char:EOLhyphen"/>poſtels / whan he ſaid vnto the<g ref="char:cmbAbbrStroke">̄</g>:
+
+<note place="margin">Timete eu<g ref="char:cmbAbbrStroke">̄</g> / q<hi rend="sup">i</hi> quu<g ref="char:cmbAbbrStroke">̄</g> occiderit habet poteſta<g ref="char:EOLunhyphen"/>tem mittere in gehennam.</note>
+
+               <q>drede hym / whiche whan he hathe kylled / hath alſo power to caſt in to hell</q>
+ 
+ / and therfore wha<g ref="char:cmbAbbrStroke">̄</g> this was ſaid to y<hi rend="sup">e</hi> apo<g ref="char:EOLhyphen"/>ſtels: let no ma<g ref="char:cmbAbbrStroke">̄</g> thi<g ref="char:cmbAbbrStroke">̄</g>ke this fere a thi<g ref="char:cmbAbbrStroke">̄</g>ge of ſo lytell weight to ſely ſynners / &amp; nat yet ſo verily penytentes in dede / as deuiſyng thervpon and goynge a<g ref="char:EOLunhyphen"/>bout to be. To whome / what can be more holſome than feare / whiche as ſcripture ſaith / 
+
+<note place="margin">Timor expel<g ref="char:EOLunhyphen"/>lit peccatum.</note>
+
+putteth ſyn out / and
+
+<note place="margin">Qui ſine ti<g ref="char:EOLhyphen"/>more eſt / non poterit iuſti<g ref="char:EOLhyphen"/>ficari.</note>
+
+               <q>he that is without feare can nat be iu<g ref="char:EOLunhyphen"/>ſtifyed.</q>
+ 
+ And ye wolde haue feare of goddes iugement and puyſſhment / nat onely taken fro contrition / whi<g ref="char:EOLhyphen"/>che is the mooſt co<g ref="char:cmbAbbrStroke">̄</g>mune waye y<hi rend="sup">t</hi> dra<g ref="char:EOLhyphen"/>weth men from ſynne: but alſo to the ende / that men ſhulde in ſynne pre<g ref="char:EOLhyphen"/>ſume vpon their faithe / ye wolde ha<g ref="char:EOLhyphen"/>ue all feare taken fro<g ref="char:cmbAbbrStroke">̄</g> the loue of god: where as holy ſcripture rekeneth fea<g ref="char:EOLunhyphen"/>re
+<pb facs="tcp:6419:28"/>
+ a way / to attayne the loue of god / for he ſaith.
+
+<note place="margin">Timor domi<g ref="char:EOLhyphen"/>ni initium di<g ref="char:EOLhyphen"/>lectionis.</note>
+
+               <q>The feare of god / is the begynnyng of loue</q>
+ 
+ / ye and alſo thret<g ref="char:EOLunhyphen"/>neth (as I haue ſayde) that excepte thou kepe thy ſelfe continually in the feare of god / thyne houſe ſhall ſoone be ſubuerted. The ſcripture beſydes this well declareth alſo / howe great ſtrength feare hath towarde faithe / whan he ſaithe:
+
+<note place="margin">Qui time<g ref="char:cmbAbbrStroke">̄</g>t do<g ref="char:EOLunhyphen"/>minu<g ref="char:cmbAbbrStroke">̄</g> no<g ref="char:cmbAbbrStroke">̄</g> eru<g ref="char:cmbAbbrStroke">̄</g>t in creduli ver<g ref="char:EOLunhyphen"/>bo illius / q<hi rend="sup">i</hi> ti<g ref="char:EOLhyphen"/>ment inq<hi rend="sup">i</hi>rent que benepla<g ref="char:EOLhyphen"/>cita ſunt ei.</note>
+
+               <q>they that feare god wyll beleue his worde / and they that feare hym / wyll ſeke and enſertche / what thynges ſtande with his plea<g ref="char:EOLhyphen"/>ſure.</q>
+ 
+ And yet ouer all this / holy ſcrip<g ref="char:EOLunhyphen"/>ture teacheth vs that wiſedome / alſo taketh his beginnyng of feare / for he ſaithe:
+
+<note place="margin">Initiu<g ref="char:cmbAbbrStroke">̄</g> ſapie<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tie timor dn<g ref="char:cmbAbbrStroke">̄</g>i.</note>
+
+               <q>The beginnyng of wiſedom is drede of god.</q>
+ 
+ Lo Luther / here ye ſe that feare which ye ſet ſo lytell by / the holy ſcripture (by whiche ye ma<g ref="char:EOLhyphen"/>ke / as thoughe ye ſet moche) ioyneth nat onely with wyſedome and faithe
+<pb facs="tcp:6419:29"/>
+but alſo to loue / during the tyme that we wandre in the pilgymage of this worlde / and nat without good cauſe For ſurely / whan a man is by y<hi rend="sup">e</hi> feare of goddes iugeme<g ref="char:cmbAbbrStroke">̄</g>t withdrawen fro<g ref="char:cmbAbbrStroke">̄</g> the folowyng of ſynne (which tour<g ref="char:EOLhyphen"/>neth his mynde from god) he is &amp; ne<g ref="char:EOLunhyphen"/>des muſt be / the more fyt both to loue god / and be beloued of him. For whi<g ref="char:EOLunhyphen"/>che cauſe / the holy prophete Dauyd / parceyuing the great profyte of that neceſſary feare / hertely prayed god / that this feare might nat onely beſe<g ref="char:cmbAbbrStroke">̄</g>t hym: but alſo ſtro<g ref="char:cmbAbbrStroke">̄</g>gly / with his grefe and payne ſtricken in to hym / crieng to god in this wiſe.
+
+<note place="margin">Confige in ti<g ref="char:EOLhyphen"/>more tuo car<g ref="char:EOLhyphen"/>nes meas a iudiciis enim tuis timui.</note>
+
+               <q>Rote or faſtyn in my fleſſhe / thy feare / for I haue been aferde of thy iugeme<g ref="char:cmbAbbrStroke">̄</g>tes:</q>
+ 
+ ſo ſheweth he / that he hath nat onely feared god<g ref="char:EOLunhyphen"/>des iugementes / but he deſyreth alſo to haue that drede depely faſtened in in his herte. And wherto wolde god
+<pb facs="tcp:6419:29"/>
+haue gyuen vs warnyng of hell / and thretten vs therwith / except the feare therof ſhulde haue been / as it were a bytte or a bridell to refrayne vs from ſynne / and to bringe vs and preſerue vs in charite / and his fauour. Wher<g ref="char:EOLhyphen"/>fore / ſithe it is euydent that ye take a waye this feare / and openly write a<g ref="char:EOLhyphen"/>gaynſt good workes / contempnyng in penitentes all ſatiſfaction: Howe ſhameleſſe are ye to write y<hi rend="sup">t</hi> ye vpon faith do edifye charite / whan as I ha<g ref="char:EOLunhyphen"/>ue expreſly proued by your owne wri<g ref="char:EOLunhyphen"/>tyng that ye buylde vpon your fayth right nought but yuell workes in te<g ref="char:EOLhyphen"/>chyng that onely faith alone ſuffiſeth and manifeſtly co<g ref="char:cmbAbbrStroke">̄</g>tempne good wor<g ref="char:EOLhyphen"/>kes / and gyue boldneſſe largely to worke yuell without feare / teachyng that faythe alone ſhall ſuppe vp all our ſynnes / namely as ye defyne yo<hi rend="sup">r</hi> faith / where ye ſay
+
+<note place="margin">Fides eſſe nullo modo poteſt niſi ſit viuax queda<g ref="char:cmbAbbrStroke">̄</g> et indubitata opinio qua ho<g ref="char:EOLunhyphen"/>mo certus eſt ſuper omnem certitudinem ſe placere deo ſe deum habe<g ref="char:EOLunhyphen"/>te propitium &amp; ignoſce<g ref="char:cmbAbbrStroke">̄</g>tem in omnibus q<g ref="char:cmbAbbrStroke">̄</g> fecerit aut geſ<g ref="char:EOLunhyphen"/>ſerit.</note>
+
+ that faith can nat
+<pb facs="tcp:6419:30"/>
+be in no wyſe / but if it be a certayne lyuely &amp; vndouted opynion / by whi<g ref="char:EOLhyphen"/>che a man is certayne aboue all cer<g ref="char:EOLhyphen"/>taynte y<hi rend="sup">t</hi> he pleaſeth god / &amp; that god hath hym in fauour / and pardoneth hym in all that euer he dothe / by whi<g ref="char:EOLunhyphen"/>che wordes ye co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>de an high pre<g ref="char:EOLhyphen"/>ſumptuous faith / wylling men to re<g ref="char:EOLunhyphen"/>ken and accompt them ſelfe nat only ſure of goddes fauoure / but alſo ſo highly in his fauour / that they maye be bolde to offende hym / as thoughe he wyll for mannes onely faith / par<g ref="char:EOLhyphen"/>done and forgyue all their fautes.</p>
+            <p>And y<hi rend="sup">t</hi> ſuche a faithe wyll as ye wrot in Babilonica / ſuppe vp all their ſin<g ref="char:EOLunhyphen"/>nes which faithe is co<g ref="char:cmbAbbrStroke">̄</g>trary to y<hi rend="sup">t</hi> / whi<g ref="char:EOLunhyphen"/>che olde doctours teche: for holy Iſo<g ref="char:EOLunhyphen"/>doreſaith / 
+
+<note place="margin">Fruſtra ſibi de ſola fide blanditur qui bonis moribꝰ non vtatur.</note>
+
+               <q>that man whiche wyll nat vſe no good dedes doth foliſſhly flat<g ref="char:EOLunhyphen"/>ter hym ſelfe with a bare faithe.</q>
+ 
+ And alſo ſaynt Auguſtyne affyrmeth / that
+
+<note place="margin">Fides appel<g ref="char:EOLhyphen"/>lata eſt ab eo ꝙ fit. due ſylla<g ref="char:EOLunhyphen"/>be ſonant quu<g ref="char:cmbAbbrStroke">̄</g> dicitur fides / prima a facto ſecunda a di<g ref="char:EOLhyphen"/>cto. interrogo te ergo vtrum credas dicis credo fac <abbr>qd</abbr> dicis et fides eſt.</note>
+
+
+               <pb facs="tcp:6419:30"/>
+
+               <q>faithe beareth his name in latyn of two ſyllables / the one belongeth to the dede / the other to the ſayenge. I aſke y<hi rend="sup">e</hi> ſaith ſai<g ref="char:cmbAbbrStroke">̄</g>t Auguſtyne / wheder thou beleueſt or nay / thou anſ<g ref="char:EOLunhyphen"/>wereſt ye: than do as thou ſayeſt / and than haſt thou faithe.</q>
+
+But what auayleth to lay you the wordes of your auou<g ref="char:EOLhyphen"/>ry ſaynt Auguſtyne / out of whoſe or<g ref="char:EOLunhyphen"/>der ye be ronne in apoſtaſye: Wherto ſhulde I lay you the auctorite of any of the olde holy fathers / whom ye ſet<g ref="char:EOLunhyphen"/>tyng all at nought / dare boldly con<g ref="char:EOLhyphen"/>tende and affyrme that there is none other way to faithe / nor that fayth is none other maner thynge / but ſuche as ye defyne wrong / which your wro<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ge defynition of faith / albeit ye wold haue it beare a cloke / and be taken as though it were formed and perfyted with charite: yet ſhall ye neuer make any ma<g ref="char:cmbAbbrStroke">̄</g> that knoweth the right fayth
+<pb facs="tcp:6419:31"/>
+of Chriſt in that poynt to beleue you whan you make your faith care ſo ly<g ref="char:EOLunhyphen"/>tell for good workes / and ſo lyght<g ref="char:EOLhyphen"/>ly ſupping vp all ſynnes that it muſt nedes gyue all myſcheuous vnthryf<g ref="char:EOLhyphen"/>tes a great audacite and boldneſſe of vngratious lyueng / For vpon the o<g ref="char:EOLhyphen"/>ther ſyde the bleſſed Apoſtell ſaithe / in them that are of age the very true faithe is that / whiche worketh with loue: And ſaynt Iohan alſo ſaith
+
+<note place="margin">Qui diligit de<g ref="char:EOLunhyphen"/>um / mandata eius habet et ſeruat.</note>
+
+               <q>/ he that loueth god / hath and obſerueth his co<g ref="char:cmbAbbrStroke">̄</g>maundementes</q>
+ 
+ / ſo after bothe their myndes / the one of faithe the o<g ref="char:EOLhyphen"/>ther of loue / ye muſt of neceſſyte (as holy ſcripture ſaith: Declyne frome yuell and do good / and nat to reſt in that ydell and errogant faith / by whi<g ref="char:EOLunhyphen"/>che ye thynke and ymagen your ſelfe ſure and certayne / aboue all certayn<g ref="char:EOLhyphen"/>te / that god is well pleaſed with you and eyther approueth or pardoneth / 
+<pb facs="tcp:6419:31"/>
+all that euer ye do: For if that were ſo that holy man Iob / whiche was of goddes owne mouthe called ſo good and rightuous / that there was none lyke hym in the erth / wolde neuer ha<g ref="char:EOLunhyphen"/>ue been ſo tymerous and fearfull / as to haue ſayde:
+
+<note place="margin">Verebar om<g ref="char:EOLhyphen"/>nia opera mea ſciens ꝙ non parceres de<g ref="char:EOLhyphen"/>linquenti.</note>
+
+               <q>I feared all my wor<g ref="char:EOLhyphen"/>kes /  well wittynge that thou ſpareſt nat the ſynner.</q>
+            </p>
+            <p>¶ Nowe where ye write that faythe muſt be lyuely / that graunt I well / but how ca<g ref="char:cmbAbbrStroke">̄</g> it be lyuely without loue and he loueth nat god / as the Euan<g ref="char:EOLhyphen"/>gelyſt ſaith / that kepeth nat his com<g ref="char:EOLunhyphen"/>maundementes / nor he that is of age kepeth nat the co<g ref="char:cmbAbbrStroke">̄</g>maundeme<g ref="char:cmbAbbrStroke">̄</g>tes / that laboureth nat in good workꝭ: Wher<g ref="char:EOLhyphen"/>vpon it well and conſequently folo<g ref="char:EOLhyphen"/>weth / y<hi rend="sup">t</hi> your faith ſettyng good wor<g ref="char:EOLunhyphen"/>kes at nought / can in no wyſe be lyue<g ref="char:EOLunhyphen"/>ly / but muſt nedes be ſuche a faith / as
+<pb facs="tcp:6419:32"/>
+ſaynt Iames the apoſtell reproueth / where he ſaith:
+
+<note place="margin">Fides ſine operibus mor<g ref="char:EOLunhyphen"/>tus eſt.</note>
+
+               <q>Faith without good workes is deed.</q>
+ 
+ Ouer this / if that be trewe that your ſelfe affyrme in your ſermons of the preceptes / that goddꝭ co<g ref="char:cmbAbbrStroke">̄</g>maundementes / namely the nynth and y<hi rend="sup">e</hi> te<g ref="char:cmbAbbrStroke">̄</g>th can of no man (be he neuer ſo good) in any maner wyſe be kepte contrary to y<hi rend="sup">t</hi> / that Chriſt ſemeth to meane / where he ſaithe
+
+<note place="margin">Jugum meu<g ref="char:cmbAbbrStroke">̄</g> ſuaue eſt et onus meum leue.</note>
+ 
+               <q>/ my yoke is
+ ſofte and eaſy / and my burden lyght</q>
+ 
+ / but as I ſaid / if ye ſay true y<hi rend="sup">t</hi> goddes co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>deme<g ref="char:cmbAbbrStroke">̄</g>tes can i<g ref="char:cmbAbbrStroke">̄</g> no wiſe be kept / &amp; god is nat loued / but if his co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>deme<g ref="char:cmbAbbrStroke">̄</g>tes be kept / nor lyfe is there non in faithe / except y<hi rend="sup">t</hi> god be loued / ſeye nat now y<hi rend="sup">t</hi> of your owne wordꝭ ye fal agayne to the fyrſt poynt / that faithe whiche (as ye ſay) muſt nedes be ly<g ref="char:EOLhyphen"/>uely / ye bring it in to ſuche caſe that it muſt nedes be deed / but your ente<g ref="char:cmbAbbrStroke">̄</g>t may facilly be ꝑceyued: For as your
+<pb facs="tcp:6419:32"/>
+workes do ſhewe / ye wolde eyther y<hi rend="sup">t</hi> men ſhulde preſume to beleue y<hi rend="sup">t</hi> faith were as an inſtrument to ꝓuoke men to ſynne / and to gyue them boldneſſe that faith ſhall ſuppe vp all their ſyn<g ref="char:EOLunhyphen"/>nes / how great ſoeuer they be / to the entent that men ſhulde neglect good workes / and remayne in high preſu<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLunhyphen"/>tion / whiche is contrary to ſcripture whiche ſaith:
+
+<note place="margin">O preſu<g ref="char:cmbAbbrStroke">̄</g>ptio neq<hi rend="sup">i</hi>ſſima vn<g ref="char:EOLhyphen"/>de creata es.</note>
+
+               <q>O moſt wicked preſu<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLunhyphen"/>tion / wherof were thou made</q>
+ 
+ / or els ye ſette it in that high pricke / though with imꝑtinate termes / which fewe or none can attayne vnto / bringynge in therby men in to deſperation / to y<hi rend="sup">e</hi> entent that deſperation ones rooted / all care of good lyueng layd a parte they ſhulde ron out at large in to all kynde of vytiouſneſſe / and than ye myght ſaye by them as ſaynt Paule ſaythe / ad Ephe.
+
+<note place="margin">Deſperantes ſemet ipſos tradideru<g ref="char:cmbAbbrStroke">̄</g>t im<g ref="char:EOLunhyphen"/>pudicitie in operatione<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mundicie oi<g ref="char:cmbAbbrStroke">̄</g>s in auariciam.</note>
+
+               <q>They diſpeyringe / haue gyuen them ſelfe to lechery / and
+<pb facs="tcp:6419:33"/>
+the workyng of all vnclenneſſe</q>
+
+/ whi<g ref="char:EOLhyphen"/>che thyng ye procure vnder pretence of lyberte. And alſo the ſayeng of ho<g ref="char:EOLunhyphen"/>ly Iob / whiche ſaith to deſperate fol<g ref="char:EOLunhyphen"/>kes / 
+
+<note place="margin">Non credit fruſtra errore deceptꝰ quod aliquo precio redimendus ſit.</note>
+
+               <q>he beleueth nat vainly deceyued by errour / that he ſhulde be redemed by any price / </q>
+ 
+ wherby men maye par<g ref="char:EOLhyphen"/>fitely parceyue your doctryne &amp; prea<g ref="char:EOLunhyphen"/>chyng expreſly naught / which wolde gyue to men no meane way in faithe but eyther that / whiche the blyndeſt maye parceyue naught / or that waye whiche the beſt can ſkante attayne / nor neyther by the one waye nor the other / nothynge els procure or go a<g ref="char:EOLhyphen"/>bout / but to fynde the meanes / that eyther the boldneſſe of faithe optay<g ref="char:EOLhyphen"/>ned / or the diſpeyre of optaynynge myght driue men in to a bolde lyber<g ref="char:EOLhyphen"/>te of leude lyueng / whiche is the one<g ref="char:EOLunhyphen"/>ly thyng that ye labour to bringe in cuſtome vnder the name and cloke of
+<pb facs="tcp:6419:33"/>
+Euangelycall fredome. And this is the charyte / that ye buylde vpon the foundation of your deed faithe.</p>
+            <p>¶ Nowe where ye write / y<hi rend="sup">t</hi> ye bylde vpon your faithe obedience towarde gouernars / who ſeeth nat how ſha<g ref="char:cmbAbbrStroke">̄</g>e<g ref="char:EOLhyphen"/>leſſe an vntrouth ye write theri<g ref="char:cmbAbbrStroke">̄</g> / wha<g ref="char:cmbAbbrStroke">̄</g> there is no man but he knoweth how obſtinately ye teache that no chriſten man can be bou<g ref="char:cmbAbbrStroke">̄</g>den by any lawes / of which the gouernours be miniſters: And alſo howe ye ſette at nought / all the holy generall counſails that euer haue ben of Chriſtes churche: For y<hi rend="sup">e</hi> execuſion of whiche / your vngraty<g ref="char:EOLhyphen"/>ous hereſy / ye with other deteſtable heretykes / brenned vp the holy Can<g ref="char:EOLhyphen"/>no<g ref="char:cmbAbbrStroke">̄</g>s with open deriſyon and rude vp<g ref="char:EOLhyphen"/>landiſſhe people by you incenſed / ha<g ref="char:EOLunhyphen"/>ue ryſen in plu<g ref="char:cmbAbbrStroke">̄</g>pes agaynſt their go<g ref="char:EOLhyphen"/>uernours / to their owne diſtructyon
+<pb facs="tcp:6419:34"/>
+and your ſhame.</p>
+            <p>¶ Howe can ye for ſhame ſay that ye buylde vpon your faithe the crucify<g ref="char:EOLhyphen"/>eng of the body of ſyn / whan ye byld vpon your deed faith / the negligence of prayers / the vilypenſyon of holy<g ref="char:EOLhyphen"/>dayes / the co<g ref="char:cmbAbbrStroke">̄</g>tempt of faſtyng dayes / and finally all thyng in effecte / whi<g ref="char:EOLhyphen"/>che chriſten men by the co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>deme<g ref="char:cmbAbbrStroke">̄</g>t of Chriſt / and ordynau<g ref="char:cmbAbbrStroke">̄</g>ce of his holy church / crucifye the body of ſyn by.</p>
+            <p>¶ Alſo howe can ye ſay that ye teach and exhorte men to crucifye the body of ſynne / whan ye teache that ſynfull hereſy / that man hath no power nor lybertie in his wyll to do any good with all: For who ſhall ſtudy to do a<g ref="char:EOLunhyphen"/>ny good or care what yuell he dothe / that were ones throughly perſuaded in hi<g ref="char:cmbAbbrStroke">̄</g> ſelfe / y<hi rend="sup">t</hi> he neyther can any good
+<pb facs="tcp:6419:34"/>
+thyng do by hymſelfe / nor workyng with goddes grace any thi<g ref="char:cmbAbbrStroke">̄</g>g to do to<g ref="char:EOLhyphen"/>warde it / nor that in any yuell worke his owne wyll dothe any thyng at all but the neceſſyte of goddes wyll wor<g ref="char:EOLunhyphen"/>keth all togyder / whiche he can ney<g ref="char:EOLhyphen"/>ther let nor further. This hereſy / the very worſt that euer was / and mooſt highly touchyng the iuſtyce of god / ſemeth to be the very rote / wherof all other myſcheuous demeanour &amp; out<g ref="char:EOLhyphen"/>rage of your vngratious faction ſpri<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>geth / whoſe boldneſſe and temeryte ye arme with the excuſe of goddes or<g ref="char:EOLunhyphen"/>dynaunce / and ineuytable neceſſyte / and thus you wold aproue your falſe opinyons / ſettyng forthe &amp; prechyng ſome certaine places of ſcripture ob<g ref="char:EOLhyphen"/>ſcurely written / extorted by you for your purpoſe / ſome clere againſt you which ye neuertheles without ſhame co<g ref="char:cmbAbbrStroke">̄</g>tende that they make for you / wher<g ref="char:EOLunhyphen"/>fore
+<pb facs="tcp:6419:35"/>
+ I marueyle greatly (if you had eyther wytte or ſhame) y<hi rend="sup">t</hi> you durſte haue that boldneſſe to afferme y<hi rend="sup">t</hi> ab<g ref="char:EOLhyphen"/>hominable and vnreſonable hereſy a<g ref="char:EOLunhyphen"/>gaynſt the doctryne of ſo many good men / of ſo many wyſemen / of ſo ma<g ref="char:EOLhyphen"/>ny co<g ref="char:cmbAbbrStroke">̄</g>nyng men / of ſo many holy men againſt the hole conſent &amp; agrement / nat only of Chriſtes holy church / fro the begynnynge therof to this daye / but alſo / agaynſt all co<g ref="char:cmbAbbrStroke">̄</g>mune reaſon of all the hole worlde / fro the fyrſte creation of the worlde hytherto (ſa<g ref="char:EOLhyphen"/>uyng that of late Wicclyffe began it afore you) and agaynſt innumerable places of holy ſcripture / manyfeſtly ſhewyng the contrary to your opy<g ref="char:EOLhyphen"/>nyon / whervnto ye can ſet no colour of which ſyth they be ſo ryfe &amp; thicke in euery parte of ſcripture / in vayne were it here to bring you many / ther<g ref="char:EOLhyphen"/>fore one or two ſhall ſuffyce for a ſam<g ref="char:EOLunhyphen"/>ple.
+<pb facs="tcp:6419:35"/>
+For what can be more open than theſe playne wordꝭ
+
+<note place="margin">Propoſui vo<g ref="char:EOLunhyphen"/>bis vitam et morte<g ref="char:cmbAbbrStroke">̄</g> / bene<g ref="char:EOLhyphen"/>dictionem et maledictione<g ref="char:cmbAbbrStroke">̄</g> elige ergo vi<g ref="char:EOLhyphen"/>tam vt &amp; tu vi<g ref="char:EOLunhyphen"/>uas et ſemen tuum.</note>
+
+               <q>/ I haue ſet before you lyfe and dethe / good bleſſynge &amp; maledyction / choſe therfore lyfe that y<hi rend="sup">u</hi> mayſt lyue / &amp; thy ꝓgeny alſo:</q>
+ 
+ what election is there I pray you where ly<g ref="char:EOLunhyphen"/>berte lacketh? howe ſtandeth choyce with neceſſyte? In lykewiſe / where it is openly ſayde vnto man / by god puttynge bothe good and badde pu<g ref="char:EOLhyphen"/>nyſſhment / and rewarde in choice of ma<g ref="char:cmbAbbrStroke">̄</g>nes fre wyll / ſayeng thus:
+
+<note place="margin">Appoſui tibi aquam et ig<g ref="char:EOLhyphen"/>nem ad quod volueris por<g ref="char:EOLhyphen"/>rige manum tuam.</note>
+
+               <q>I haue ſet before the / fyre and water / to whe<g ref="char:EOLhyphen"/>ther thou wylte put forthe thyn ha<g ref="char:cmbAbbrStroke">̄</g>de</q>
+  
+  and in lykewiſe this:
+
+<note place="margin">Ante hoi<g ref="char:cmbAbbrStroke">̄</g>em vita &amp; mors ꝙ placuent ei dabitur illi.</note>
+
+               <q>Before man I haue put bothe lyfe and dethe / wher<g ref="char:EOLhyphen"/>ther ſhall pleaſe hym ſhall be gyuen hym.</q>
+ 
+ What meaneth here his wyll &amp; puttyng forthe his hande / if he haue no lyberte of choyce? Wherto badde ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> that the iewes ſhulde do penaunce? Wherto badde Chriſt the
+<pb facs="tcp:6419:36"/>
+aduoutreſſe that ſhe ſhulde ſynne no more? Wherto co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>ded he all men to kepe his co<g ref="char:cmbAbbrStroke">̄</g>maundeme<g ref="char:cmbAbbrStroke">̄</g>tes / if men coude neyther of themſelfe performe the<g ref="char:cmbAbbrStroke">̄</g> / nor with his ayde and helpe do a<g ref="char:EOLunhyphen"/>ny thyng towarde them? Whan god tolde the<g ref="char:cmbAbbrStroke">̄</g> / that good and badde was put in their choice / dyd god tell them a trewe tale or a falſe? if ye ſaye that he ſayd nat true / than take ye crede<g ref="char:cmbAbbrStroke">̄</g>ce from all his promyſes by faith / whi<g ref="char:EOLhyphen"/>che onely credence ye ſay / ſuffyſeth to ſaluation. And on the other ſyde / if it were true / than muſt ye be nedes vn<g ref="char:EOLhyphen"/>trewe that teache the co<g ref="char:cmbAbbrStroke">̄</g>trary / ſo that in this mater I ſe none other queſti<g ref="char:EOLhyphen"/>on / but wheder we ſhal beleue Chriſt or you / except ye wyll ſay (as I ſe no<g ref="char:EOLunhyphen"/>thing ſo farre out of reaſon / but ye be redy to ſaye it) that god ſpake it in ſporte / but neyther is that the graue and erneſt maner of his maieſte / and
+<pb facs="tcp:6419:36"/>
+in this thyng alſo he ſpake maruey<g ref="char:EOLhyphen"/>lous erneſtly / and ſhewed them their free liberte / as the very cauſe of their iuſt punyſſhment / if they brake his beheſt / declaryng and teſtifyeng his rightwyſe Iuſtyce / to the ende that no man ſhulde of his goodneſſe con<g ref="char:EOLhyphen"/>ceyue ſo peſtyle<g ref="char:cmbAbbrStroke">̄</g>t opinyon / as to thi<g ref="char:cmbAbbrStroke">̄</g>ke the thyng that ye nowe preache / whi<g ref="char:EOLunhyphen"/>che is / that his clemence hath that ty<g ref="char:EOLunhyphen"/>ra<g ref="char:cmbAbbrStroke">̄</g>nous nature to punyſſhe any man without deſert / as it were onely for a cruell pleaſure. And therfore / whan ye be ſo farre fallen in to the pytte of peſtylent hereſyes / that ye can fynde in your hert to conceyue that deteſta<g ref="char:EOLunhyphen"/>ble opinyon of god / whiche no good man can fynde in his herte to thynke of an other / there nedeth none other profe to declare what ruynous buyl<g ref="char:EOLhyphen"/>ding ye reare vpon the falſe founda<g ref="char:EOLhyphen"/>tion of your vnfaithfull faythe.</p>
+            <p>
+               <pb facs="tcp:6419:37"/>¶ Nor I touche nat theſe hereſyes of yours for any purpoſe / to dyſpute vpon them: For I bothe knowe the<g ref="char:cmbAbbrStroke">̄</g> for ſuche as agaynſt euery one of the<g ref="char:cmbAbbrStroke">̄</g> were mater ynough / nat for a longe letter / but for many long bokes: and alſo / for ſuche as be ſo plainly and ſo fully da<g ref="char:cmbAbbrStroke">̄</g>pned / reproued / and reiected alredy / and vpon the bare hearynge in euery good mannes eares ſo da<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLhyphen"/>nable in themſelfe / that they nede nat to be nowe diſputed vpon / nor ſhulde be diſputable or doutfull / and moche leſſe credible / although (as ſai<g ref="char:cmbAbbrStroke">̄</g>t Pau<g ref="char:EOLhyphen"/>le ſaith) An angell wolde come from heuyn and preache them / beyng ſo co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>trary to the goſpell and faithe / that Chriſt hath taught his church / from the begynnyng hyderto. Nor if they were as doutfull and dyſputable for you / as they be vndoutedly clere a<g ref="char:EOLhyphen"/>gaynſt you / yet am I long ſyns at a<g ref="char:EOLhyphen"/>poi<g ref="char:cmbAbbrStroke">̄</g>t
+<pb facs="tcp:6419:37"/>
+/ no more to vouchſafe to dyſpute any man with you / ſith I haue had ſo good experie<g ref="char:cmbAbbrStroke">̄</g>ce of you / howe clene ye ſet all reaſon aſyde / and fall all to ray<g ref="char:EOLunhyphen"/>lyng: For which I haue determyned (which I ſhal ſurely kepe) as for any diſpytions / to leaue you to your leud<g ref="char:EOLunhyphen"/>neſſe / albeit other folke me thynke ha<g ref="char:EOLunhyphen"/>ue as well of other places / as of our owne realme anſwered you / &amp; ſom<g ref="char:EOLhyphen"/>what handled you / as ye be worthy / after your owne facion / ſauyng that they among playne wordes / tell you reaſon / where ye vſed onely raylyng and as yet / ye anſwere none of them one worde / agaynſt whom ye wolde nat ſo longe haue holde your peace / were it nat that ye ꝑceyue your ſelfe ſo plainly co<g ref="char:cmbAbbrStroke">̄</g>cluded / that ye coude nat write againſt them again for ſhame: but and if ye happe herafter to waxe ſhameleſſe agayne for angre / ſome of
+<pb facs="tcp:6419:38"/>
+them I thynke / wyll nat myſſe yet eft<g ref="char:EOLunhyphen"/>ſones / Luther / ones to ſhewe you yo<hi rend="sup">r</hi> ſelfe agayne: But as for m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / neyther purpoſe I to write any more to you / nor at this tyme wolde nat / ne were it that I ꝑceyue by your letter / your fraudulente purpoſe / by whiche ye wolde abuſe the worlde / as thoughe ye knewe me for turned to your ſect: wheri<g ref="char:cmbAbbrStroke">̄</g> I wold haue gyuen you ſhort anſwere without any touche of your hereſyes in ſpecialte / had ye nat be ſo ſhameleſſe to write that ye teache no thynge els / but that men muſte be ſa<g ref="char:EOLhyphen"/>ued in the faithe of Chriſt / with cha<g ref="char:EOLhyphen"/>rite buylded thervpon / and obedie<g ref="char:cmbAbbrStroke">̄</g>ce and crucifyeng of the body of ſynne / whiche your ſha<g ref="char:cmbAbbrStroke">̄</g>efull and ſhameleſſe lyeng / hath driuen me ſo to ſhewe &amp; ſpecify one or two of your open here<g ref="char:EOLhyphen"/>ſyes / that euery man maye parceyue howe farre they be of another kynde
+<pb facs="tcp:6419:38"/>
+than the faith of our ſaluation or cha<g ref="char:EOLunhyphen"/>rite / or obedie<g ref="char:cmbAbbrStroke">̄</g>ce / or crucifyeng of the body of ſynne / whiche ye ſaye be the onely thynges that ye teache / and yet haue I nothynge touched / the great hygh hope of all your other heynous hereſies / whiche yet more plainly de<g ref="char:EOLunhyphen"/>clare and proue your ſhameleſſe vn<g ref="char:EOLhyphen"/>trueth / in writyng / that ye teache no<g ref="char:EOLhyphen"/>thyng els / but the faithe of our ſalua<g ref="char:EOLunhyphen"/>tion / charite / obedience / and crucify<g ref="char:EOLhyphen"/>eng of the body of ſynne: For whan ye ſo plainly write agaynſt the ſacra<g ref="char:EOLunhyphen"/>mentes of Chriſtes church / whan ye damme chaſtite in preeſtes / deny all holy orders / ioyne breed with y<hi rend="sup">e</hi> body of Chriſt / take from all men the bene<g ref="char:EOLunhyphen"/>fyte of the maſſe / rayle agaynſt y<hi rend="sup">e</hi> ho<g ref="char:EOLhyphen"/>ly Canon of the ſame: whan ye make women confeſſours and miniſters of all ſacramentes / and make them con<g ref="char:EOLhyphen"/>ſecrate the body of Chriſt: Whan ye
+<pb facs="tcp:6419:39"/>
+teache ſo lytell differe<g ref="char:cmbAbbrStroke">̄</g>ce bytwene our bleſſed lady and your leude Le<g ref="char:cmbAbbrStroke">̄</g>man: Whan ye blaſpheme Chriſtes holy croſſe: Whan ye teache that there is no purgatorie / but y<hi rend="sup">t</hi> all ſoules ſhall ſlepe tyll the daye of dome / that ſyn<g ref="char:EOLhyphen"/>ners may be holde for ſo long / with a thouſa<g ref="char:cmbAbbrStroke">̄</g>de ſhamefull hereſics beſyde / Are ye nat now a ſhamed / to ſay that ye teache nothyng els / but that man muſt be ſaued by the faithe of Ieſu Chriſt? Whan ye go about in dede to diſtroy the faith of Ieſu Chriſt / who if he had come to teache ſuche wayes as ye teache / he had nat co<g ref="char:cmbAbbrStroke">̄</g>men to call the world fro badde to good / nor had been a techer of vertue / as he was in dede / but a very patrone of ſyn / wher<g ref="char:EOLunhyphen"/>of the contrary / he dyd well ſhewe in ſuffryng the puniſſhment of y<hi rend="sup">e</hi> croſſe for the onely redemptyon and remiſ<g ref="char:EOLhyphen"/>ſyon of our ſynnes. Howe myght ye
+<pb facs="tcp:6419:39"/>
+for ſhame (if there were any in you) write vnto me ſuch thingꝭ / knowing that I nat onely haue reed theſe thin<g ref="char:EOLunhyphen"/>ges i<g ref="char:cmbAbbrStroke">̄</g> your bokes / but haue ouer that manifeſtly to your open ſhame &amp; re<g ref="char:EOLhyphen"/>buke / conuycted you in many partes of the ſame / as ſubſtantiall well ler<g ref="char:EOLhyphen"/>ned men do iuge.</p>
+            <p>¶ All whiche natwithſtandynge / it is wonder to ſe / with what boldneſſe ye deſyre to be herde / and (as though ye hadde neuer been herde hytherto) ſhewe your ſelfe moche to marueyle why ye ſhulde be condempned / ney<g ref="char:EOLhyphen"/>ther beyng herde nor co<g ref="char:cmbAbbrStroke">̄</g>uicted. Haue ye nat been herde face to face before y<hi rend="sup">e</hi> popes Legate in Almayne? Haue ye nat been herde in open diſpytions in Saxony? haue ye nat ben ouermoch herde / by your erronyous and blaſ<g ref="char:EOLhyphen"/>phemous bokes ouer largely ſprede / 
+<pb facs="tcp:6419:40"/>
+through the worlde? &amp; yet ye alledge your ſelfe nat to be herde / but conde<g ref="char:cmbAbbrStroke">̄</g>p<g ref="char:EOLunhyphen"/>ned without conuyction: ye maye be ſafe ynough from all co<g ref="char:cmbAbbrStroke">̄</g>dempnation / if there be fyrſt requiſyte ſuche a con<g ref="char:EOLunhyphen"/>uyction / as your ſelfe wyll co<g ref="char:cmbAbbrStroke">̄</g>feſſe for a conuyction: but of trouth / ye haue ben conuycted oft ynough by ſondrie connyng men (and as wyſe and well lerned men reken) by my writyng al<g ref="char:EOLhyphen"/>ſo / whiche was confermed by the ap<g ref="char:EOLhyphen"/>probation of the ſee apoſtolyke / the which thing though your pride wyll nat parceyue / yet your dealyng doth confeſſe / ſithe ye neuer hiderto coude ne dyd anſwere thervnto / by any ſub<g ref="char:EOLunhyphen"/>ſtantiall reaſon / but onely by leude raylyng.</p>
+            <p>¶ If my ſelfe knewe nat the maters wherof ye be condempned / yet coude I no thynge dout / but ye were iuſtly
+<pb facs="tcp:6419:40"/>
+condempned / ſeyng that ye were con<g ref="char:EOLunhyphen"/>dempned by our holy father the pope and the holy college of Cardynals: whoſe iuſtyce and indifference / there wyll no wyſe man any thynge myſ<g ref="char:EOLhyphen"/>truſt / for the leude raylyng of a ſym<g ref="char:EOLhyphen"/>ple frere / angry with his owne iuſte condempnation / and namely ſuch as ye be / whom no reaſon can ſatiſfye / none auctorite can moue / nor beleue no man but your owne wytte / whom onely ye beleue in all thynges / con<g ref="char:EOLhyphen"/>trary to the wyſe mannes counſayle / whiche ſaith:<note place="margin">R<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſapiens eſſe apud ſe<g ref="char:EOLhyphen"/>metipſum.</note> 
+
+               <q>Stande nat to well in your owne conceyte:</q> 
+
+And he ſaith al<g ref="char:EOLhyphen"/>ſo / that there is moche more hope of a fole than of one that taketh him ſelfe for ſo wyſe. 
+
+<note place="margin"> Uidiſti hoi<g ref="char:cmbAbbrStroke">̄</g>em ſapie<g ref="char:cmbAbbrStroke">̄</g>tem ſibi videri: magis illo ſpem ha<g ref="char:EOLhyphen"/>bebit inſipie<g ref="char:cmbAbbrStroke">̄</g>s</note>
+
+Whan ye were alſo con<g ref="char:EOLhyphen"/>dempned by dyuers vnyuerſitees / &amp; among other / by the famous vniuer<g ref="char:EOLhyphen"/>ſyte of Paris: why ſhulde I miſtruſt your condempnation: and though I
+<pb facs="tcp:6419:41"/>
+had my ſelfe (as I ſayde) nothynge knowen of your mater / namely ſithe your ſelfe co<g ref="char:cmbAbbrStroke">̄</g>diſcended to ſtande and obey to the iugement of Paris / but parceyuinge your errours ſo many<g ref="char:EOLhyphen"/>feſt / that ye coude haue none hope in the iugement of any man / good and co<g ref="char:cmbAbbrStroke">̄</g>nyng / At your perſonall beyng at Wormace / where ye were by the Em<g ref="char:EOLunhyphen"/>perours maieſte conde<g ref="char:cmbAbbrStroke">̄</g>pned in playn parliament / ye were / ye ſaid / content to diſpute / but ye refuſed vtterly vp<g ref="char:EOLhyphen"/>pon your diſpytions / to ſtande to a<g ref="char:EOLhyphen"/>ny mannes iugement. Nowe whan I ſe that ye order youre ſelfe in this wyſe / neyther ſtande to the iudges that ye condiſcende vpon / nor to the iugement of the Emperour / with ſu<g ref="char:EOLunhyphen"/>che nombre of co<g ref="char:cmbAbbrStroke">̄</g>ning men as he hath and than had about hym: nor to the iugement of the Pope / and y<hi rend="sup">e</hi> church of Rome / but furiouſly appele from
+<pb facs="tcp:6419:41"/>
+the Pope to the next generall coun<g ref="char:EOLhyphen"/>ſayle / and that with a ſta<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yng hole / farther addyng / ſuche as ſhulde next be congregate in the Holy goſt: And yet after that / openly detracte &amp; deny the power of all generall counſayls / wherby well appered / that in conclu<g ref="char:EOLunhyphen"/>ſion / ye wolde ſtande to none at all: howe coude I than (as I ſaid) miſ<g ref="char:EOLhyphen"/>truſt your condempnation: All this your order conſydred / albeit I had nothyng els herde and vnderſta<g ref="char:cmbAbbrStroke">̄</g>den of your mater: but no we knowynge your maters my ſelfe / and well par<g ref="char:EOLhyphen"/>ceyuinge them / for ſuche as they be / playne and euydent hereſyes / of ſu<g ref="char:EOLhyphen"/>che ſorte / as I haue reherſed you ſo<g ref="char:cmbAbbrStroke">̄</g>e / as ye ſay ye marueyle that ye can nat be herde: ſo I moche marueyle more that you can ſo ſay / and that any ma<g ref="char:cmbAbbrStroke">̄</g> is in thoſe opynions content to gyue you any hearynge at all / as thoughe
+<pb facs="tcp:6419:42"/>
+they ſhulde nowe dout / wheder thoſe thynges be trewe or nat: whiche as artycles of oure faithe / all Chriſtes churche beleueth / and hath contynu<g ref="char:EOLhyphen"/>ally beleued this fyftene hundred ye<g ref="char:EOLhyphen"/>res before / as appereth by y<hi rend="sup">e</hi> doctrine of Chriſt and his bleſſed Appoſtels / with many other holy doctours and ſayntes / writynge in ſondrie tymes conſonant in one faithe / fro Chriſtes dayes vnto yours / of whiche holy ſai<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tes / &amp; interpretours of the ſcrypture of god / ſithe ye contempne their wri<g ref="char:EOLhyphen"/>tynges / I ſe nat by what reaſon ye can deſyre y<hi rend="sup">t</hi> we ſhulde beleue yours / or what frute coude come of your wri<g ref="char:EOLunhyphen"/>tynges / ſo clene contrary to the frute<g ref="char:EOLhyphen"/>full writyng of theirs: And therfore where ye ſaye there were great hope of no lytell fruyte to the goſpell / and glorie of god / if ye might haue leaue and lyberte / to write vnto me therof:
+<pb facs="tcp:6419:42"/>
+ſurely / than hadde ye nede to write clene the contrary / of ſuche thynges as ye haue written alredy / and ſeme lykely to write by your letter / for by that ye haue hiderto written / the goſ<g ref="char:EOLunhyphen"/>pell of Chriſt hath take no frute / but by the peſtylent blaſt of your veno<g ref="char:EOLhyphen"/>mous mouth / hath had moche good<g ref="char:EOLhyphen"/>ly frute vtterly ſpilte and rotten / and many a fayre bloſſome peryſſhed / y<hi rend="sup">t</hi> wolde haue ben ſwete frute / if ſuche a catterpyller had nat deuoured the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>¶ Nowe where as ye rayle of y<hi rend="sup">e</hi> fau<g ref="char:EOLhyphen"/>tes of the court of Rome / and the cler<g ref="char:EOLunhyphen"/>gye / I purpoſe nat with a manne of your auctorite to diſpute moche ther vpo<g ref="char:cmbAbbrStroke">̄</g> / but how ſoeuer they be / ye ſhew your ſelfe what ye be: and ſyth ye re<g ref="char:EOLhyphen"/>ken your ſelfe ſo great a goſpeller / it were well done / that ye lerned of the goſpell / to pull the beme out of your
+<pb facs="tcp:6419:43"/>
+owne eye / ere ye ſpye a feſtue in ano<g ref="char:EOLhyphen"/>ther ma<g ref="char:cmbAbbrStroke">̄</g>nes / and that ye conſydre by them that of rancour and malyce re<g ref="char:EOLhyphen"/>buked Dauyd / what ende they com<g ref="char:EOLhyphen"/>munely came vnto / that rayle vpon their ſouerayns: And that / albeit ye ſhulde ſe the church ſo<g ref="char:cmbAbbrStroke">̄</g> what ſwarue / that ye be nat yet ſo bolde and mala<g ref="char:EOLhyphen"/>perte / preſumptuouſly to take vpon you to ſet your croked handes to the righti<g ref="char:cmbAbbrStroke">̄</g>g therof / leſt god ſo teache you curteſy / as he taught hym that ſette hande to y<hi rend="sup">e</hi> arche of god whan it was ſwarued: Howe be it vndoubtely though ye lyſt to rayle vpon y<hi rend="sup">e</hi> court of Rome / yet it well appereth vpon your doctryne / and your lyueng that ye worſt lyke in the churche / what ſo euer is beſt: for ſithe vnthriftes and apoſtataes / that ron out of relygion and fall to fleſſhly delyte / be welcom to you / and good relygious folke be
+<pb facs="tcp:6419:43"/>
+dayly by your meanes expelled oute of their places / in whiche they were determyned in chaſtyte / prayer / and faſtyng / to beſtowe their lyues i<g ref="char:cmbAbbrStroke">̄</g> god<g ref="char:EOLunhyphen"/>des ſeruice: &amp; now thoſe holy houſes partly pulled downe / partely good &amp; vertuous virgyns put out / left vnto lechours / and polluted with apoſta<g ref="char:EOLhyphen"/>taes / vnder the name of mariage ly<g ref="char:EOLunhyphen"/>ueng in lechery: This dealyng well declareth / that ye hate no man for his vyce / but that ye rather hate the<g ref="char:cmbAbbrStroke">̄</g> that be good and vertuous / bycauſe they be contrary to your wayes: &amp; ſurely the great cauſe why ye murmure a<g ref="char:EOLhyphen"/>gaynſt the churche of Rome is / by<g ref="char:EOLhyphen"/>cauſe ye ſe and were wode therwith / that it hath co<g ref="char:cmbAbbrStroke">̄</g>de<g ref="char:cmbAbbrStroke">̄</g>pned your hereſyes / ſo that it may with reaſon aunſwere you with holy ſcripture / which ſaith:
+
+<note place="margin">Non contra nos eſt mur<g ref="char:EOLhyphen"/>mur veſtrum ſed co<g ref="char:cmbAbbrStroke">̄</g>tra do<g ref="char:EOLhyphen"/>minum.</note>
+
+               <q>your murmure is nat againſt vs but agaynſt our lorde:</q>
+ 
+ And than ſhall it
+<pb facs="tcp:6419:44"/>
+loke vp to Chriſt in heuyn / whoſe pla<g ref="char:EOLunhyphen"/>ce it repreſenteth in erthe / and ſhall a<g ref="char:EOLunhyphen"/>gaynſt youre heynous preſumptyon gratiouſly be herde / ſaye<g ref="char:cmbAbbrStroke">̄</g>g:
+
+<note place="margin">Preſume<g ref="char:cmbAbbrStroke">̄</g>tes de ſe et de ſua virtute glori<g ref="char:EOLhyphen"/>antes humi<g ref="char:EOLhyphen"/>lias.</note>
+ 
+               <q>they that
+ preſume vpon them ſelfe / and glorie in their owne ſtrength / thou doeſt a<g ref="char:EOLhyphen"/>bate</q>
+ 
+ 
+ good lorde: &amp; ſurely there was neuer ma<g ref="char:cmbAbbrStroke">̄</g>  borne (I trowe) that ſet ſo moche by hym ſelfe / that had ſo lytell cauſe: but and ye were ſo wyſe i<g ref="char:cmbAbbrStroke">̄</g> dede as ye ſtande well in your owne con<g ref="char:EOLhyphen"/>ceyt / ye wolde nat murmure againſt your ame<g ref="char:cmbAbbrStroke">̄</g>dement / for as the wyſe ma<g ref="char:cmbAbbrStroke">̄</g> ſaithe:
+
+<note place="margin">Uir prudens et diſciplinatꝰ non murmu<g ref="char:EOLhyphen"/>rabit correptꝰ</note>
+
+               <q>A diſcrete man &amp; well taught wyll nat murmure / whan his fautes be ſhewed him.</q>
+ 
+ I feare ye ſhall finde it ſo / that wenyng your ſelfe ſo wyſe / it wyll fall by you / as ſaynt Paule ſaithe / by the paynym philoſophers 
+
+<note place="margin">Euanuerunt in cogitationi<g ref="char:EOLunhyphen"/>bus ſuis ob<g ref="char:EOLhyphen"/>ſcuratu<g ref="char:cmbAbbrStroke">̄</g> eſt i<g ref="char:cmbAbbrStroke">̄</g>ſi<g ref="char:EOLunhyphen"/>pie<g ref="char:cmbAbbrStroke">̄</g>s cor eoru<g ref="char:cmbAbbrStroke">̄</g> : dice<g ref="char:cmbAbbrStroke">̄</g>tes ſe eſſe ſapie<g ref="char:cmbAbbrStroke">̄</g>tes ſtulti facti ſunt.</note>
+ 
+               <q>/ They haue done vainly in their in<g ref="char:EOLhyphen"/>uentions / 
+ their folyſſhe hertes were blynded / callyng the<g ref="char:cmbAbbrStroke">̄</g> ſelfe wyſe men / 
+<pb facs="tcp:6419:44"/>
+they were made fooles.</q>
+
+So ye ryſe highe in your owne herte / and with great boſt reken yourſelfe very riche of frendes / and namely of great prin<g ref="char:EOLunhyphen"/>ces / that (as ye ſay) take your parte in Almayn: but I wene ye ſhall finde to preue trewe vpon you theſe wor<g ref="char:EOLhyphen"/>des
+ of the Apocalyps / whiche ſaithe to the ryche man theſe wordes: 
+ 
+<note place="margin">Tu dicis q<hi rend="sup">i</hi>a diues ſu<g ref="char:cmbAbbrStroke">̄</g> et lo<g ref="char:EOLunhyphen"/>cupletatus et nullius egeo et neſcis quia miſer es et mi<g ref="char:EOLunhyphen"/>ſerabilis et pauper et ce<g ref="char:EOLhyphen"/>cus et nudus.</note>
+
+               <q>thou affyrmeſt to thy ſelfe / I am riche and of great ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce / and haue no nede of nothynge / &amp; yet thou knoweſt nat that thou arte a wretche / and myſera<g ref="char:EOLunhyphen"/>ble and poore / blynde and naked:</q>
+
+I thynke ere it be long / our lorde wyll of his highe goodneſſe prouyde / that with ſuch wayes as ye take / your vn<g ref="char:EOLunhyphen"/>wyſe pride wyll in ſuche wyſe abate / that ye ſhall fynde your ſelfe as pore and bare of all fre<g ref="char:cmbAbbrStroke">̄</g>des / as ye be of gra<g ref="char:EOLunhyphen"/>ce and goodneſſe / and it beginneth al<g ref="char:EOLunhyphen"/>redy / if ye haue the witte to parceyue
+<pb facs="tcp:6419:45"/>
+it: For where ye booſt of princes ta<g ref="char:EOLhyphen"/>kyng your parte / we here of none ſu<g ref="char:EOLhyphen"/>che; but haue good experience y<hi rend="sup">t</hi> rude boyſtous people / ſeduced with your ſecte / haue co<g ref="char:cmbAbbrStroke">̄</g>men to great myſchefe / by the valyaunt acquitayle of good and Catholyke princes in Almayne / that reſyſted your malicious faction there / to their highe meryte of god / honour of this worlde / laude &amp; praiſe of all good chriſten men: And where ye ſaye / it is no marueyle though the Emperour and ſome other prynces purſue you / and that it were maruell if any prince or people were on your parte / reherſyng the wordes of Da<g ref="char:EOLhyphen"/>uid:
+
+<note place="margin">Gentes fre<g ref="char:EOLhyphen"/>mueru<g ref="char:cmbAbbrStroke">̄</g>t et po<g ref="char:EOLunhyphen"/>puli meditati ſu<g ref="char:cmbAbbrStroke">̄</g>t inania aſti<g ref="char:EOLunhyphen"/>teru<g ref="char:cmbAbbrStroke">̄</g>t reges et principes con<g ref="char:EOLunhyphen"/>ueneru<g ref="char:cmbAbbrStroke">̄</g>t i<g ref="char:cmbAbbrStroke">̄</g> vnu<g ref="char:cmbAbbrStroke">̄</g> aduerſꝰ dn<g ref="char:cmbAbbrStroke">̄</g>m et aduerſus Chriſtu<g ref="char:cmbAbbrStroke">̄</g> eius.</note>
+
+               <q>the gentyls haue ben angry / and the people haue deuyſed i<g ref="char:cmbAbbrStroke">̄</g> vayne / thyn<g ref="char:EOLunhyphen"/>ges haue aſſembled / and pri<g ref="char:cmbAbbrStroke">̄</g>ces haue gathered togider agaynſt our lorde / and agaynſt his enoynted Chriſte<g ref="char:punc">▪</g>
+               </q>
+ 
+ Theſe wordes make moche agaynſt
+<pb facs="tcp:6419:45"/>
+you / if ye ſay trouthe / that the pri<g ref="char:cmbAbbrStroke">̄</g>ces and people of Almayne take youre parte / as you i<g ref="char:cmbAbbrStroke">̄</g> your letter do affirme for certayne is it / that your doyng is in dede agaynſt Chriſt / wherfore ta<g ref="char:EOLhyphen"/>ke your parte agaynſt hym who ſo wyll
+
+<note place="margin">Qui habitat i<g ref="char:cmbAbbrStroke">̄</g> celis irride<g ref="char:EOLhyphen"/>bit eos et do<g ref="char:EOLhyphen"/>minus ſubſannabit eos.</note>
+
+               <q>/ he that dwelleth in the heuyns ſhall laugh them to ſcorne / and oure lorde mocke them / </q>
+ 
+ as he hath all redy proued / by thre or fourſcore thouſa<g ref="char:cmbAbbrStroke">̄</g>de of your faction / whiche by his highe punyſſhment / are / &amp; hath ben ſlayne.</p>
+            <p>¶Now where as ye ſo holily wyſh / that god ſhulde in me ſo worke with your wordes / y<hi rend="sup">t</hi> I might (as it were by myracle) be co<g ref="char:cmbAbbrStroke">̄</g>uerted / and fauour the goſpell: Verily / I ꝓfeſſe my ſelfe to fauour y<hi rend="sup">e</hi> goſpell / and that mynde I praye god / nat onely to contynue / but alſo dayly to encreace: but for as
+<pb facs="tcp:6419:46"/>
+moche as I well knowe / that ye no<g ref="char:EOLhyphen"/>thyng els meane / by the fauour of the goſpell / but the fauour of your owne ſecte / and wolde haue your peſtylent hereſyes taken for Chriſtes goſpell: And ſithe I well wote alſo / that our lorde wyll hym ſelfe worke no myra<g ref="char:EOLunhyphen"/>cles / agaynſt the faythe of his owne ſonne: Therfore / ere the deuyll ſhuld worke any ſuche wondre in me / that I ſhulde (vnder y<hi rend="sup">e</hi> cloke of Chriſtes goſpell) fauour Luthers hereſies / I wolde fyrſte wyſſhe / that ye Luther and all yours / were there where (ex<g ref="char:EOLhyphen"/>cept ye mende) ye &amp; they be worthy.</p>
+            <p>¶Nowe as touching your worſhip<g ref="char:EOLunhyphen"/>full gentyll offre / that ye wolde / if I were ſo content / make and put out a<g ref="char:EOLhyphen"/>nother boke / to my prayſe &amp; honour / with reuokynge of ſuche wordes / as
+<pb facs="tcp:6419:46"/>
+ye haue written to the contrary / All this laboure I gladly remytte you / nor I deſyre none of your bokes / to be written to my prayſe / but wolde y<hi rend="sup">t</hi> ye ſhulde reuoke your hereſyes / and confeſſe your errours / &amp; therby gyue prayſe and glorie / to almighty god: For if ye perſeuer in your hereſyes and leude lyueng / ye canne nat more highly praiſe me / tha<g ref="char:cmbAbbrStroke">̄</g> in diſpraiſing: nor more highly diſprayſe me / tha<g ref="char:cmbAbbrStroke">̄</g> in prayſing / if it be trewe that Seneck ſaythe:
+
+<note place="margin">Ta<g ref="char:cmbAbbrStroke">̄</g> turpe tibi ſit laudari a turpibus: qua<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ſi lauderis ob turpia.</note>
+
+               <q>It is as great a ſhame to be prayſed of naughty folkes / as to be prayſed for naughtyneſſe.</q>
+ 
+ And ther<g ref="char:EOLhyphen"/>fore / where as ye in dyuers partes of your letter write your ſelfe ſore aſha<g ref="char:EOLunhyphen"/>med of your boke / that ye put out a<g ref="char:EOLhyphen"/>gaynſt me / layeng the faut therof / to the yuell inſtigatyon of other men / hu<g ref="char:cmbAbbrStroke">̄</g>bly beſechyng me of forgyueneſſe
+<pb facs="tcp:6419:47"/>
+proſterning your ſelfe to my fete / tru<g ref="char:EOLunhyphen"/>ſtyng that ſithe I am a man mortall / I wolde nat beare i<g ref="char:cmbAbbrStroke">̄</g>mortall enemyte: Surely Luther / albeit ye haue ta<g ref="char:EOLhyphen"/>ken your ſelfe alwaye for ſo great a man / in your owne conceyte / that ye haue in writynge / openly profeſſed your ſelfe / that ye were &amp; euer wolde be / bothe quycke and deed / a perpe<g ref="char:EOLhyphen"/>tuall enemye to the Pope (to whoſe highneſſe I well knowe / howe farre the eſtate of a kyng is inferyour) yet neuer made I / ſo great accompte of you / that euer I wolde vouchſafe / to reken my ſelfe for your enemye: all beit I am to your hereſyes / as great an enemye / as any man. Nor all that euer ye wrote agaynſt me / neuer mo<g ref="char:EOLhyphen"/>ued me ſo ſore: but that moche leſſe / ſubmiſſyon on your parte / ſhulde co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tent me / than ye now offre / if it were
+<pb facs="tcp:6419:47"/>
+offred ſyncerley: But ſithe I ꝑceyue all your humble offres proudely pou<g ref="char:EOLunhyphen"/>dred / with the mainteynau<g ref="char:cmbAbbrStroke">̄</g>ce of your former hereſyes: I am nat Luther ſo blynde / but that I well parceyue / to what ende entendeth youre (nat ve<g ref="char:EOLhyphen"/>ry well nor wiſely cloked) wilineſſe: by whiche (albeit that by the way ye ſomtyme vſe youre ſelfe for lacke of wytte right contumelyouſly) yet la<g ref="char:EOLhyphen"/>bour ye with blandyſſhyng and fla<g ref="char:EOLhyphen"/>tery / to gete and obteyne leaue of vs: that ye myght vnder the pretexte of treatyng the goſpell / with our good wyll and fauour / write hyther to vs boldly / in the defence and / fortifyeng of your abhomynable errours &amp; he<g ref="char:EOLhyphen"/>reſyes / at your lyberte: but if the no<g ref="char:EOLhyphen"/>bles of Almayne had (as wolde god they had) aſwell foreſeen your ways in tyme / as I do / ye ſhulde nat there / 
+<pb facs="tcp:6419:48"/>
+vnder the name of Euangelycall ly<g ref="char:EOLhyphen"/>berte / haue brought in to the countre ſo moche diſtructyon and myſchefe / as ye haue. Wherfore / as ye fayned<g ref="char:EOLhyphen"/>ly beſeche me / by the vertue of Chri<g ref="char:EOLhyphen"/>ſtes croſſe (to whiche croſſe what re<g ref="char:EOLhyphen"/>uerence ye beare / youre vnreuerente treatyng and vyle writynge therof / openly declareth) that I wolde par<g ref="char:EOLhyphen"/>done youre offences towarde me / ſo I Luther / vnfaynedly with a very chriſtien hert / aduyſe and counſayle you / that ye proſterne your ſelfe / nat at my fete / but at goddes / and with his grace (which is euer at ha<g ref="char:cmbAbbrStroke">̄</g>de / for them that wyllyngly wyll nat refuſe it) ye do endeuer your ſelfe to applye the fredome of your wyll (whiche ye nowe ſynfully deny) to the callynge for entre and encreace of grace. And thervpon / that ye ſo laboure and en<g ref="char:EOLhyphen"/>force
+<pb facs="tcp:6419:48"/>
+your ſelfe to worke with all / y<hi rend="sup">t</hi> ye maye fyrſt puttyng from you / and ſendyng in to ſome Monaſtery / that ſely wretched woman / ſomtyme the ſpouſe of Chriſt: Whom ye to youre bothe dampnatyon / abuſe in ſynfull lechery / vnder the pretext of laufull matrimony: than by all the dayes of your lyfe / to mourne / bewayle / and lament / the manyfolde hereſyes that ye haue fallen in: the Innumerable heape of harmes / that your yuell do<g ref="char:EOLhyphen"/>ctryne hath done / the piteous diſtru<g ref="char:EOLhyphen"/>ction of all thoſe bodies / whom your yuell incytatyon hathe cauſed to be ſlayne. And yet aboue all / the mooſt ſoroufull loſſe and diſtruction / of the infynite nombre of thoſe ſely ſoules / which your vnhappy teachyng hath ſente in to dampnatyon: And wolde our lorde ye had ſuche grace and go<g ref="char:EOLhyphen"/>ſtely
+<pb facs="tcp:6419:49"/>
+ſtrength / that no feare of dethe / coude refrayne you in the reco<g ref="char:cmbAbbrStroke">̄</g>pe<g ref="char:cmbAbbrStroke">̄</g>ce of your olde falſe errours / but that wyl<g ref="char:EOLunhyphen"/>lyngly / ye wolde preaſe forthe / and preache nowe openly the trueth / accu<g ref="char:EOLunhyphen"/>ſyng and co<g ref="char:cmbAbbrStroke">̄</g>dempnyng all your olde hereſies / written in tyme paſte / and yet remaynyng in your herte / to the furtheraunce of your dutie / and aug<g ref="char:EOLunhyphen"/>mentatyon of Chriſtes very faythe. Howe beit / if the lacke of grace / and the infyrmyte of your fleſhe / can nat ſuſtaine that / wherby ye dare nat for drede of dethe / reuoke your errours preſently among them / where ye ha<g ref="char:EOLhyphen"/>ue ſowen them: yet / diſdayne nat to folowe ſaint Peter him ſelfe / though ye contempne his ſucceſſours: Wher<g ref="char:EOLunhyphen"/>fore / if ye dare nat confeſſe the truthe but deny and forſ were Chriſt with<g ref="char:EOLhyphen"/>in / gete you out at the leſt wayes fro<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:6419:49"/>
+them / whom your ſelfe haue corrup<g ref="char:EOLhyphen"/>ted vnlyke ſai<g ref="char:cmbAbbrStroke">̄</g>t Peter / in that poynt: and bytterly wepe for your ſyn / with drawyng your ſelfe ſomwhere farre of / in to ſome religious place / &amp; there take recourſe to the fountayne of gra<g ref="char:EOLunhyphen"/>ce &amp; remiſſion / our Sauiour Chriſt: and there do penaunce for your ſyn / where ye maye reuoke / and in wri<g ref="char:EOLhyphen"/>tynge call agayne your olde errours and hereſyes / for the helth and ſaue<g ref="char:EOLhyphen"/>garde of your ſoule / without any pa<g ref="char:EOLunhyphen"/>ryll of your body: there / with reuo<g ref="char:EOLhyphen"/>kynge and lamentynge your former errours and yuell lyuenge / with the meke and humble hoope of goddes great mercy / with the geſture / wor<g ref="char:EOLhyphen"/>des / and hert of y<hi rend="sup">e</hi> Publycan / labour to procure by the good contynuau<g ref="char:cmbAbbrStroke">̄</g>ce of frutefull penaunce / remiſſyon and forgyueneſſe of your fore paſſed of<g ref="char:EOLhyphen"/>fences:
+<pb facs="tcp:6419:50"/>
+of whiche your amendement and other by your meanes / I wolde be as gladde to here / as I haue been ſorie to ſe you / &amp; by you ſo many mo / pi<g ref="char:EOLhyphen"/>tuouſly ſpylt and loſt.</p>
+            <trailer>¶ Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Flete<g ref="char:EOLhyphen"/>ſtrete by Rycharde Pynſon / printer to the kynges mooſt noble grace.</p>
+         </div>
+         <div type="privilege">
+            <p>¶ Cum priuilegio / a rege in dulto.</p>
+            <pb facs="tcp:6419:50"/>
+            <pb facs="tcp:6419:51"/>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device of Richard Pynson</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:6419:51"/>
+         </div>
+      </back>
+   </text>
+</TEI>
